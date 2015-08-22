@@ -1,0 +1,48 @@
+h 0 0 131 84
+l 7
+b 12 59 24 6
+b 64 59 24 6
+b 103 59 16 6
+l 12
+b 120 55 6 18
+b 16 0 16 55
+b 5 55 6 5
+b 37 55 6 5
+b 68 0 16 55
+b 47 0 6 5
+b 99 0 6 5
+b 99 0 16 55
+b 5 59 38 6
+b 57 54 6 24
+b 89 54 6 24
+b 57 78 38 6
+b 5 65 38 8
+b 103 59 12 14
+l 14
+b 5 65 110 8
+c 112 62 1 1 0 poly_via.gex
+c 9 69 1 1 0 m1m2_via.gex
+c 23 69 1 1 0 m1m2_via.gex
+c 31 69 1 1 0 m1m2_via.gex
+c 39 69 1 1 0 m1m2_via.gex
+c 81 62 1 1 0 poly_via.gex
+c 71 62 1 1 0 poly_via.gex
+c 80 69 1 1 0 m1m2_via.gex
+c 72 69 1 1 0 m1m2_via.gex
+c 76 62 1 1 0 poly_via.gex
+c 33 62 1 1 0 poly_via.gex
+c 24 62 1 1 0 poly_via.gex
+c 15 62 1 1 0 poly_via.gex
+c 52 0 1 1 0 n3x50.gex
+c 73 0 1 1 0 n3x50.gex
+c 42 0 1 1 0 GTAP.gex
+c 42 16 1 1 0 GTAP.gex
+c 0 0 1 1 0 n3x50.gex
+c 21 0 1 1 0 n3x50.gex
+c 106 62 1 1 0 poly_via.gex
+c 104 0 1 1 0 n3x50.gex
+c 94 16 1 1 0 GTAP.gex
+c 94 0 1 1 0 GTAP.gex
+c 111 69 1 1 0 m1m2_via.gex
+c 103 69 1 1 0 m1m2_via.gex
+c 123 69 1 1 0 m1m2_via.gex

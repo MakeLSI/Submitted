@@ -1,0 +1,29 @@
+h -200 -200 250 400
+l 12
+b -6 -167 41 24
+b -40 -28 65 12
+l 14
+b -50 -167 100 16
+b -50 -30 10 16
+c 45 -148 1 1 1 n-pwell20x100.gex
+c 46 -163 1 1 0 m1m2_via.gex
+c 46 -155 1 1 0 m1m2_via.gex
+c 22 -163 1 1 0 m1m2_via.gex
+c 30 -163 1 1 0 m1m2_via.gex
+c 38 -163 1 1 0 m1m2_via.gex
+c 22 -155 1 1 0 m1m2_via.gex
+c 30 -155 1 1 0 m1m2_via.gex
+c 38 -155 1 1 0 m1m2_via.gex
+c -11 -163 1 1 0 m1m2_via.gex
+c -3 -163 1 1 0 m1m2_via.gex
+c 5 -163 1 1 0 m1m2_via.gex
+c 13 -163 1 1 0 m1m2_via.gex
+c -11 -155 1 1 0 m1m2_via.gex
+c -3 -155 1 1 0 m1m2_via.gex
+c 5 -155 1 1 0 m1m2_via.gex
+c 13 -155 1 1 0 m1m2_via.gex
+c -36 -26 1 1 4 m1m2_via.gex
+c -36 -18 1 1 4 m1m2_via.gex
+c -28 -26 1 1 4 m1m2_via.gex
+c -28 -18 1 1 4 m1m2_via.gex
+c 0 0 1 1 0 CTEG_OPEN.gex

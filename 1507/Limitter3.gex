@@ -1,0 +1,30 @@
+h 4 1 116 85
+l 2
+b 4 1 112 80
+l 3
+b 6 3 108 76
+l 9
+b 7 4 106 10
+l 12
+b 55 80 20 6
+b 45 16 20 6
+b 111 16 9 60
+c 108 9 1 1 0 act_via.gex
+c 102 9 1 1 0 act_via.gex
+c 96 9 1 1 0 act_via.gex
+c 90 9 1 1 0 act_via.gex
+c 84 9 1 1 0 act_via.gex
+c 78 9 1 1 0 act_via.gex
+c 72 9 1 1 0 act_via.gex
+c 66 9 1 1 0 act_via.gex
+c 60 9 1 1 0 act_via.gex
+c 54 9 1 1 0 act_via.gex
+c 48 9 1 1 0 act_via.gex
+c 42 9 1 1 0 act_via.gex
+c 36 9 1 1 0 act_via.gex
+c 30 9 1 1 0 act_via.gex
+c 24 9 1 1 0 act_via.gex
+c 18 9 1 1 0 act_via.gex
+c 12 9 1 1 0 act_via.gex
+c -1 10 1 1 0 n50x4.gex
+c 121 92 1 1 2 n50x4.gex

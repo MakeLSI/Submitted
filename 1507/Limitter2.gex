@@ -1,0 +1,31 @@
+h -4 17 96 72
+l 1
+b -3 22 95 60
+l 3
+b 20 24 70 56
+l 8
+b 39 25 10 54
+l 12
+b 41 28 6 61
+b 77 81 15 8
+b 37 17 24 6
+b 59 81 18 8
+b 1 81 28 6
+l 14
+b 1 81 50 8
+c 5 85 1 1 2 m1m2_via.gex
+c 63 85 1 1 2 m1m2_via.gex
+c 11 84 1 1 2 poly_via.gex
+c 69 20 1 1 2 poly_via.gex
+c 92 82 1 1 2 p50x3_2.gex
+c -4 22 1 1 0 p50x3_2.gex
+c 44 67 1 1 2 act_via.gex
+c 44 61 1 1 2 act_via.gex
+c 44 55 1 1 2 act_via.gex
+c 44 49 1 1 2 act_via.gex
+c 44 43 1 1 2 act_via.gex
+c 44 37 1 1 2 act_via.gex
+c 44 31 1 1 2 act_via.gex
+c 44 73 1 1 2 act_via.gex
+c 55 85 1 1 2 m1m2_via.gex
+c 33 85 1 1 2 m1m2_via.gex

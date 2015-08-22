@@ -1,0 +1,116 @@
+h -20 0 328 330
+l 2
+b 188 302 4 16
+l 3
+b 190 303 12 13
+l 4
+b 193 300 6 13
+l 9
+b 191 302 10 13
+l 10
+b 195 300 2 2
+b 195 304 2 2
+b 195 309 2 2
+l 12
+b 164 218 67 6
+b 201 201 60 6
+b 193 229 6 21
+b 164 224 9 20
+b 0 320 300 10
+b 168 174 8 4
+b 158 244 15 6
+b 179 234 8 86
+b 132 204 69 8
+b 158 167 18 7
+b 167 140 20 16
+b 184 126 17 8
+b 249 98 6 14
+b 168 178 51 6
+b 176 84 8 50
+b 158 52 31 8
+b 177 24 22 6
+b 0 0 300 10
+b 33 10 48 10
+b 81 10 51 4
+b 162 10 8 36
+b 189 10 102 4
+b 33 308 146 12
+b 193 280 6 33
+t 8 2 8 0 Gnd
+t 16 322 8 0 Vddin
+l 14
+b 93 298 126 8
+b 226 199 16 13
+b 300 94 8 105
+b 193 212 8 17
+b 179 140 8 110
+b 193 126 8 70
+b 85 112 124 8
+b 170 98 85 8
+b 222 191 78 8
+b 85 16 8 8
+b 93 16 92 8
+b 176 46 8 22
+b 265 94 35 8
+b -10 250 23 16
+b -10 152 23 16
+b -10 58 23 16
+b -20 58 10 208
+t 283 191 8 0 Vd1
+t 3 273 10 0 Vsw1+
+t 4 237 8 0 Vsw1-
+t 5 177 8 0 Vsw2-
+t 4 140 8 0 Vsw2+
+t 4 82 8 0 Vsw3+
+t 6 45 8 0 Vsw3-
+t -15 253 8 0 Vd2
+c 215 297 1 1 0 m1m2_via.gex
+c 215 289 1 1 0 m1m2_via.gex
+c 300 196 1 1 1 GTAP.gex
+c 197 233 1 1 0 m1m2_via.gex
+c 197 241 1 1 0 m1m2_via.gex
+c 268 302 1 1 1 GTAP.gex
+c 300 302 1 1 1 GTAP.gex
+c 238 216 1 1 0 m1m2_via.gex
+c 230 216 1 1 0 m1m2_via.gex
+c 220 208 1 1 0 Limitter1.gex
+c 97 14 1 1 6 SW1.gex
+c 97 206 1 1 6 SW1.gex
+c 89 294 1 1 0 m1m2_via.gex
+c 97 294 1 1 0 m1m2_via.gex
+c 183 238 1 1 0 m1m2_via.gex
+c 183 246 1 1 0 m1m2_via.gex
+c 197 208 1 1 0 m1m2_via.gex
+c 89 124 1 1 0 m1m2_via.gex
+c 97 124 1 1 0 m1m2_via.gex
+c 197 200 1 1 0 m1m2_via.gex
+c 97 212 1 1 2 SW1.gex
+c 166 102 1 1 0 m1m2_via.gex
+c 166 94 1 1 0 m1m2_via.gex
+c 183 144 1 1 0 m1m2_via.gex
+c 183 152 1 1 0 m1m2_via.gex
+c 197 130 1 1 0 m1m2_via.gex
+c 197 138 1 1 0 m1m2_via.gex
+c 180 8 1 1 0 Limitter3.gex
+c 243 102 1 1 0 m1m2_via.gex
+c 251 102 1 1 0 m1m2_via.gex
+c 208 201 1 1 4 Limitter2.gex
+c 89 28 1 1 0 m1m2_via.gex
+c 234 188 1 1 0 m1m2_via.gex
+c 226 188 1 1 0 m1m2_via.gex
+c 181 26 1 1 0 m1m2_via.gex
+c 89 36 1 1 0 m1m2_via.gex
+c 180 80 1 1 0 m1m2_via.gex
+c 180 72 1 1 0 m1m2_via.gex
+c 180 42 1 1 0 m1m2_via.gex
+c 172 42 1 1 0 m1m2_via.gex
+c 181 18 1 1 0 m1m2_via.gex
+c 277 98 1 1 0 m1m2_via.gex
+c 269 98 1 1 0 m1m2_via.gex
+c 236 302 1 1 1 GTAP.gex
+c 188 261 1 1 0 GTAP.gex
+c 188 245 1 1 0 GTAP.gex
+c 268 196 1 1 1 GTAP.gex
+c 240 196 1 1 1 GTAP.gex
+c 137 201 1 1 1 GTAP.gex
+c 169 201 1 1 1 GTAP.gex

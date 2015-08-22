@@ -1,0 +1,32 @@
+h -200 -200 295 400
+l 12
+b -6 115 96 43
+b -6 -158 96 37
+b -40 -6 121 12
+l 14
+b -50 -8 10 16
+b -50 -158 71 16
+b -50 142 72 16
+c -11 142 1 1 4 p-cbs0_10ux5.gex
+c -11 -142 1 1 0 p-cbs0_10ux5.gex
+c 0 0 1 1 0 CTEG_OPEN.gex
+c -36 4 1 1 0 m1m2_via.gex
+c -36 -4 1 1 0 m1m2_via.gex
+c -28 4 1 1 0 m1m2_via.gex
+c -28 -4 1 1 0 m1m2_via.gex
+c -7 -146 1 1 0 m1m2_via.gex
+c 1 -146 1 1 0 m1m2_via.gex
+c 9 -146 1 1 0 m1m2_via.gex
+c 17 -146 1 1 0 m1m2_via.gex
+c -7 -154 1 1 0 m1m2_via.gex
+c 1 -154 1 1 0 m1m2_via.gex
+c 9 -154 1 1 0 m1m2_via.gex
+c 17 -154 1 1 0 m1m2_via.gex
+c -6 146 1 1 0 m1m2_via.gex
+c 2 146 1 1 0 m1m2_via.gex
+c 10 146 1 1 0 m1m2_via.gex
+c 18 146 1 1 0 m1m2_via.gex
+c -6 154 1 1 0 m1m2_via.gex
+c 2 154 1 1 0 m1m2_via.gex
+c 10 154 1 1 0 m1m2_via.gex
+c 18 154 1 1 0 m1m2_via.gex

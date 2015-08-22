@@ -1,0 +1,85 @@
+; structure creation     : 9/6/114 (8:0:26)
+; structure modification : 10/6/114 (8:53:59)
+; structure name : TEST_nmos
+L 31
+B -1250 -250 -990 -150
+B -1450 -610 -1350 -350
+L 2
+B -1296 -330 -1270 -304
+L 3
+B -1294 -328 -1272 -306
+L 4
+B -1291 -315 -1275 -309
+B -1291 -325 -1275 -319
+L 5
+B -1293 -317 -1273 -307
+L 7
+B -1284 -317 -1282 -305
+B -1284 -305 -1281 -299
+L 8
+B -1293 -317 -1273 -307
+L 9
+B -1293 -327 -1273 -317
+L 12
+B -1222 -271 -1178 -255
+B -1345 -422 -1329 -378
+B -1062 -271 -1018 -255
+B -1345 -582 -1329 -538
+W 6 -1200 -274 -1200 -302 -1267 -302
+W 6 -1040 -274 -1040 -312 -1272 -312
+W 6 -1326 -560 -1288 -560 -1288 -328
+W 6 -1326 -400 -1298 -400 -1298 -312 -1294 -312
+L 14
+B -1062 -255 -1018 -250
+B -1350 -582 -1345 -538
+B -1062 -271 -1018 -255
+B -1345 -582 -1329 -538
+B -1222 -271 -1178 -250
+B -1350 -422 -1329 -378
+C -1270 -299 1 1 2 Element_polycon
+C -1275 -299 1 1 2 Element_polycon
+C -1275 -319 1 1 2 Element_actcon
+C -1280 -319 1 1 2 Element_actcon
+C -1285 -319 1 1 2 Element_actcon
+C -1275 -309 1 1 2 Element_actcon
+C -1285 -309 1 1 2 Element_actcon
+C -1220 -255 1 1 4 Element_via
+C -1220 -263 1 1 4 Element_via
+C -1212 -255 1 1 4 Element_via
+C -1212 -263 1 1 4 Element_via
+C -1204 -255 1 1 4 Element_via
+C -1204 -263 1 1 4 Element_via
+C -1196 -255 1 1 4 Element_via
+C -1196 -263 1 1 4 Element_via
+C -1188 -255 1 1 4 Element_via
+C -1188 -263 1 1 4 Element_via
+C -1345 -380 1 1 3 Element_via
+C -1337 -380 1 1 3 Element_via
+C -1345 -388 1 1 3 Element_via
+C -1337 -388 1 1 3 Element_via
+C -1345 -396 1 1 3 Element_via
+C -1337 -396 1 1 3 Element_via
+C -1345 -404 1 1 3 Element_via
+C -1337 -404 1 1 3 Element_via
+C -1345 -412 1 1 3 Element_via
+C -1337 -412 1 1 3 Element_via
+C -1060 -255 1 1 4 Element_via
+C -1060 -263 1 1 4 Element_via
+C -1052 -255 1 1 4 Element_via
+C -1052 -263 1 1 4 Element_via
+C -1044 -255 1 1 4 Element_via
+C -1044 -263 1 1 4 Element_via
+C -1036 -255 1 1 4 Element_via
+C -1036 -263 1 1 4 Element_via
+C -1028 -255 1 1 4 Element_via
+C -1028 -263 1 1 4 Element_via
+C -1345 -580 1 1 7 Element_via
+C -1337 -580 1 1 7 Element_via
+C -1345 -572 1 1 7 Element_via
+C -1337 -572 1 1 7 Element_via
+C -1345 -564 1 1 7 Element_via
+C -1337 -564 1 1 7 Element_via
+C -1345 -556 1 1 7 Element_via
+C -1337 -556 1 1 7 Element_via
+C -1345 -548 1 1 7 Element_via
+C -1337 -548 1 1 7 Element_via

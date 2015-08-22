@@ -1,0 +1,9 @@
+; structure creation     : 9/6/114 (8:0:25)
+; structure modification : 1/1/70 (9:0:0)
+; structure name : Element_actcon
+L 4
+B 0 0 6 6
+L 10
+B 2 2 4 4
+L 12
+B 0 0 6 6

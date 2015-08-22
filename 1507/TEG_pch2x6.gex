@@ -1,0 +1,19 @@
+h -200 -200 400 400
+l 12
+b -15 -64 8 10
+b -15 -100 24 36
+l 14
+b -50 -8 8 16
+b 27 -8 23 16
+c 0 0 1 1 0 TEG_OPEN.gex
+c -12 -69 1 1 0 pch2x6x10.gex
+c -38 4 1 1 0 m1m2_via.gex
+c -38 -4 1 1 0 m1m2_via.gex
+c 23 4 1 1 0 m1m2_via.gex
+c 23 -4 1 1 0 m1m2_via.gex
+c -11 -104 1 1 0 m1m2_via.gex
+c -3 -104 1 1 0 m1m2_via.gex
+c 5 -104 1 1 0 m1m2_via.gex
+c -11 -112 1 1 0 m1m2_via.gex
+c -3 -112 1 1 0 m1m2_via.gex
+c 5 -112 1 1 0 m1m2_via.gex

@@ -1,0 +1,57 @@
+h 0 0 162 84
+l 7
+b 140 60 10 6
+b 123 60 6 6
+b 84 60 14 6
+b 40 60 37 6
+b 15 60 10 6
+l 12
+b 99 78 47 6
+b 140 66 6 12
+b 151 55 6 29
+b 130 55 6 11
+b 135 5 11 50
+b 119 0 6 5
+b 109 0 6 5
+b 109 0 16 55
+b 99 55 6 23
+b 21 78 71 6
+b 84 66 8 12
+b 42 60 35 6
+b 32 55 10 11
+b 46 0 26 55
+b 82 5 6 50
+b 67 0 6 5
+b 57 0 6 5
+b 31 5 5 50
+b 46 0 6 5
+b 15 55 6 29
+b 5 0 6 5
+l 14
+b 69 66 54 8
+c 143 63 1 1 0 poly_via.gex
+c 132 70 1 1 0 m1m2_via.gex
+c 135 0 1 1 0 nch3x50.gex
+c 83 0 1 1 0 nch3x50.gex
+c 104 0 1 1 0 GTAP.gex
+c 104 16 1 1 0 GTAP.gex
+c 114 0 1 1 0 nch3x50.gex
+c 115 63 1 1 0 poly_via.gex
+c 120 63 1 1 0 poly_via.gex
+c 119 70 1 1 0 m1m2_via.gex
+c 87 63 1 1 0 poly_via.gex
+c 91 63 1 1 0 poly_via.gex
+c 43 63 1 1 0 poly_via.gex
+c 49 63 1 1 0 poly_via.gex
+c 70 63 1 1 0 poly_via.gex
+c 74 63 1 1 0 poly_via.gex
+c 73 70 1 1 0 m1m2_via.gex
+c 31 0 1 1 0 nch3x50.gex
+c 52 0 1 1 0 GTAP.gex
+c 52 16 1 1 0 GTAP.gex
+c 62 0 1 1 0 nch3x50.gex
+c 18 63 1 1 0 poly_via.gex
+c 22 63 1 1 0 poly_via.gex
+c 10 0 1 1 0 nch3x50.gex
+c 0 0 1 1 0 GTAP.gex
+c 0 16 1 1 0 GTAP.gex

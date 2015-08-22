@@ -1,0 +1,127 @@
+h -34 -6 534 166
+l 0
+t 470 131 10 0 Vss
+t 456 149 10 0 Dp4
+t 431 145 10 0 Gp4
+t 394 153 10 0 Dp3
+t 338 148 10 0 Gp3
+t 316 153 10 0 Dp2
+t 294 154 10 0 Gp2
+t 272 151 10 0 Dp1
+t 219 150 10 0 Gp1
+t 197 147 10 0 Dn4
+t 178 147 10 0 Gn4
+t 151 153 10 0 Dn3
+t 96 150 10 0 Gn3
+t 72 151 10 0 Dn2
+t 51 150 10 0 Gn2
+t 26 153 10 0 Dn1
+t -34 152 10 0 Gn1
+l 12
+b 252 20 228 10
+b 311 68 13 16
+b 169 10 6 4
+b 189 48 13 16
+b 67 48 9 16
+b 51 10 6 4
+b 236 10 8 40
+b 292 34 3 16
+b 426 40 5 16
+b 0 -6 430 16
+b 451 68 13 16
+l 14
+b 490 10 10 150
+b 430 0 70 10
+b 472 36 8 124
+b 284 10 8 24
+b 357 10 8 24
+b 357 50 8 14
+b 418 10 8 30
+b 395 142 8 18
+b 338 93 8 67
+b 294 103 8 57
+b 316 84 8 76
+b 273 142 8 18
+b 220 93 8 67
+b 26 136 8 24
+b 178 83 8 77
+b 198 64 8 96
+b 96 79 8 81
+b 72 64 8 96
+b 51 83 8 77
+b -31 72 8 88
+b 432 103 8 57
+b 456 84 8 76
+b 151 138 8 22
+t 491 148 10 0 Gnd
+c 476 24 1 1 6 m1m2_via.gex
+c 476 32 1 1 6 m1m2_via.gex
+c 414 -6 1 1 1 GTAP.gex
+c 344 -6 1 1 1 GTAP.gex
+c 256 -6 1 1 1 GTAP.gex
+c 426 19 1 1 0 pch6x50.gex
+c 399 130 1 1 6 m1m2_via.gex
+c 399 138 1 1 6 m1m2_via.gex
+c 368 19 1 1 0 pch6x6x10.gex
+c 342 97 1 1 0 m1m2_via.gex
+c 342 89 1 1 0 m1m2_via.gex
+c 306 99 1 1 6 m1m2_via.gex
+c 309 92 1 1 6 poly_via.gex
+c 298 99 1 1 6 m1m2_via.gex
+c 297 92 1 1 6 poly_via.gex
+c 320 72 1 1 6 m1m2_via.gex
+c 320 80 1 1 6 m1m2_via.gex
+c 316 19 1 1 6 pch2x50x1.gex
+c 277 130 1 1 6 m1m2_via.gex
+c 277 138 1 1 6 m1m2_via.gex
+c 247 19 1 1 0 pch2x6x10.gex
+c 224 97 1 1 0 m1m2_via.gex
+c 224 89 1 1 0 m1m2_via.gex
+c 30 124 1 1 0 m1m2_via.gex
+c 30 132 1 1 0 m1m2_via.gex
+c 182 79 1 1 6 m1m2_via.gex
+c 174 79 1 1 6 m1m2_via.gex
+c 173 72 1 1 6 poly_via.gex
+c 185 72 1 1 6 poly_via.gex
+c 202 52 1 1 6 m1m2_via.gex
+c 202 60 1 1 6 m1m2_via.gex
+c 194 -1 1 1 6 nch6x50.gex
+c 76 52 1 1 0 m1m2_via.gex
+c 76 60 1 1 0 m1m2_via.gex
+c 63 79 1 1 0 m1m2_via.gex
+c 55 79 1 1 0 m1m2_via.gex
+c 65 72 1 1 0 poly_via.gex
+c 53 72 1 1 0 poly_via.gex
+c 46 -1 1 1 0 nch2x50x1.gex
+c -27 68 1 1 0 m1m2_via.gex
+c -19 68 1 1 0 m1m2_via.gex
+c 3 -1 1 1 0 nch2x6x10.gex
+c 288 38 1 1 6 m1m2_via.gex
+c 288 46 1 1 6 m1m2_via.gex
+c 284 -2 1 1 6 m1m2_via.gex
+c 284 6 1 1 6 m1m2_via.gex
+c 292 -2 1 1 6 m1m2_via.gex
+c 292 6 1 1 6 m1m2_via.gex
+c 357 6 1 1 6 m1m2_via.gex
+c 365 6 1 1 6 m1m2_via.gex
+c 357 -2 1 1 6 m1m2_via.gex
+c 365 -2 1 1 6 m1m2_via.gex
+c 361 46 1 1 6 m1m2_via.gex
+c 361 38 1 1 6 m1m2_via.gex
+c 418 6 1 1 6 m1m2_via.gex
+c 426 6 1 1 6 m1m2_via.gex
+c 418 -2 1 1 6 m1m2_via.gex
+c 426 -2 1 1 6 m1m2_via.gex
+c 422 52 1 1 6 m1m2_via.gex
+c 422 44 1 1 6 m1m2_via.gex
+c 436 99 1 1 6 m1m2_via.gex
+c 435 92 1 1 6 poly_via.gex
+c 444 99 1 1 6 m1m2_via.gex
+c 447 92 1 1 6 poly_via.gex
+c 460 72 1 1 6 m1m2_via.gex
+c 460 80 1 1 6 m1m2_via.gex
+c 124 -1 1 1 0 nch6x6x10.gex
+c 100 77 1 1 0 m1m2_via.gex
+c 100 69 1 1 0 m1m2_via.gex
+c 155 126 1 1 0 m1m2_via.gex
+c 155 134 1 1 0 m1m2_via.gex

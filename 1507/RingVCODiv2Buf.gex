@@ -1,0 +1,35 @@
+h -140 -11 359 84
+l 12
+b 1 26 7 6
+b -119 18 8 8
+b -21 24 8 8
+b 142 26 2 6
+b 6 18 8 8
+b 70 14 8 8
+t -139 9 4 0 Vctrl
+l 13
+b -117 20 4 4
+b -19 26 4 4
+b 8 20 4 4
+b 72 16 4 4
+l 14
+b 6 4 6 14
+b -119 18 8 8
+b -118 26 97 6
+b -21 24 8 8
+b 6 18 8 8
+b 70 14 8 8
+b 12 4 59 6
+b 71 4 6 10
+t 40 25 4 0 VCOOut
+t 177 25 4 0 Div2Out
+c 258 26 1 1 0 BufInvx10.gex
+c 151 26 1 1 0 PLTSPCDiv2.gex
+c 122 26 1 1 0 BufInvx10.gex
+c 98 26 1 1 0 Inv.gex
+c 39 26 1 1 0 CtrlInv.gex
+c 19 26 1 1 0 CtrlInv.gex
+c -1 26 1 1 0 CtrlInv.gex
+c -21 26 1 1 0 CtrlInv.gex
+c -41 26 1 1 0 CtrlInv.gex
+c -61 26 1 1 0 VCOCtrl.gex

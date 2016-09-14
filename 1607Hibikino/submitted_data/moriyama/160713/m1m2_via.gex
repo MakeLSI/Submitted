@@ -1,0 +1,9 @@
+; structure creation     : 12/4/2015 (23:2:24)
+; structure modification : 12/4/2015 (23:2:24)
+; structure name : m1m2_via.gex
+L 12
+B -4 -4 4 4
+L 13
+B -2 -2 2 2
+L 14
+B -4 -4 4 4

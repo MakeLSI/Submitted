@@ -1,0 +1,63 @@
+; structure creation     : 9/6/114 (8:0:26)
+; structure modification : 10/6/114 (8:59:11)
+; structure name : TEST_pmos
+L 31
+B 865 -79 1125 21
+B 1225 -439 1325 -179
+L 12
+B 1053 -100 1097 -84
+B 1204 -251 1220 -207
+B 893 -100 937 -84
+B 1204 -411 1220 -367
+W 6 1075 -103 1075 -131 1142 -131
+W 6 915 -103 915 -141 1147 -141
+W 6 1201 -389 1163 -389 1163 -169
+W 6 1201 -229 1173 -229 1173 -153 1169 -153
+L 14
+B 893 -84 937 -79
+B 1220 -411 1225 -367
+B 893 -100 937 -84
+B 1204 -411 1220 -367
+B 1053 -100 1097 -79
+B 1204 -251 1225 -207
+C 1153 -131 1 1 4 Example_pMOSFET
+C 1095 -84 1 1 2 Element_via
+C 1095 -92 1 1 2 Element_via
+C 1087 -84 1 1 2 Element_via
+C 1087 -92 1 1 2 Element_via
+C 1079 -84 1 1 2 Element_via
+C 1079 -92 1 1 2 Element_via
+C 1071 -84 1 1 2 Element_via
+C 1071 -92 1 1 2 Element_via
+C 1063 -84 1 1 2 Element_via
+C 1063 -92 1 1 2 Element_via
+C 1220 -209 1 1 5 Element_via
+C 1212 -209 1 1 5 Element_via
+C 1220 -217 1 1 5 Element_via
+C 1212 -217 1 1 5 Element_via
+C 1220 -225 1 1 5 Element_via
+C 1212 -225 1 1 5 Element_via
+C 1220 -233 1 1 5 Element_via
+C 1212 -233 1 1 5 Element_via
+C 1220 -241 1 1 5 Element_via
+C 1212 -241 1 1 5 Element_via
+C 935 -84 1 1 2 Element_via
+C 935 -92 1 1 2 Element_via
+C 927 -84 1 1 2 Element_via
+C 927 -92 1 1 2 Element_via
+C 919 -84 1 1 2 Element_via
+C 919 -92 1 1 2 Element_via
+C 911 -84 1 1 2 Element_via
+C 911 -92 1 1 2 Element_via
+C 903 -84 1 1 2 Element_via
+C 903 -92 1 1 2 Element_via
+C 1220 -409 1 1 1 Element_via
+C 1212 -409 1 1 1 Element_via
+C 1220 -401 1 1 1 Element_via
+C 1212 -401 1 1 1 Element_via
+C 1220 -393 1 1 1 Element_via
+C 1212 -393 1 1 1 Element_via
+C 1220 -385 1 1 1 Element_via
+C 1212 -385 1 1 1 Element_via
+C 1220 -377 1 1 1 Element_via
+C 1212 -377 1 1 1 Element_via

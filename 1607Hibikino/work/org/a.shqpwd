@@ -1,0 +1,234 @@
+cp 1704 VT/
+gawk -f add_vt.awk 1704 >> VT/1704
+cp 16TOP1.gex VT/
+gawk -f add_vt.awk 16TOP1.gex >> VT/16TOP1.gex
+cp 16TOP2.gex VT/
+gawk -f add_vt.awk 16TOP2.gex >> VT/16TOP2.gex
+cp 3ho_and2_v2.gex VT/
+gawk -f add_vt.awk 3ho_and2_v2.gex >> VT/3ho_and2_v2.gex
+cp 3ho_or2_v2.gex VT/
+gawk -f add_vt.awk 3ho_or2_v2.gex >> VT/3ho_or2_v2.gex
+cp 3ho_xor2_v2.gex VT/
+gawk -f add_vt.awk 3ho_xor2_v2.gex >> VT/3ho_xor2_v2.gex
+cp 555c.gex VT/
+gawk -f add_vt.awk 555c.gex >> VT/555c.gex
+cp 64div.gex VT/
+gawk -f add_vt.awk 64div.gex >> VT/64div.gex
+cp 8-1sel2.gex VT/
+gawk -f add_vt.awk 8-1sel2.gex >> VT/8-1sel2.gex
+cp ADD_VT VT/
+gawk -f add_vt.awk ADD_VT >> VT/ADD_VT
+cp ALU_160625_box.gex VT/
+gawk -f add_vt.awk ALU_160625_box.gex >> VT/ALU_160625_box.gex
+cp BufInvx2.gex VT/
+gawk -f add_vt.awk BufInvx2.gex >> VT/BufInvx2.gex
+cp COMMON_SOURCE.gex VT/
+gawk -f add_vt.awk COMMON_SOURCE.gex >> VT/COMMON_SOURCE.gex
+cp CtrlInv.gex VT/
+gawk -f add_vt.awk CtrlInv.gex >> VT/CtrlInv.gex
+cp DFF_R_V2XGEX VT/
+gawk -f add_vt.awk DFF_R_V2XGEX >> VT/DFF_R_V2XGEX
+cp DFF_V2XGEX VT/
+gawk -f add_vt.awk DFF_V2XGEX >> VT/DFF_V2XGEX
+cp DFF_V2XGEX2 VT/
+gawk -f add_vt.awk DFF_V2XGEX2 >> VT/DFF_V2XGEX2
+cp DRAIN_COMMON.gex VT/
+gawk -f add_vt.awk DRAIN_COMMON.gex >> VT/DRAIN_COMMON.gex
+cp GATE_COMMON.gex VT/
+gawk -f add_vt.awk GATE_COMMON.gex >> VT/GATE_COMMON.gex
+cp GOLD_127BOXXGEX.gex VT/
+gawk -f add_vt.awk GOLD_127BOXXGEX.gex >> VT/GOLD_127BOXXGEX.gex
+cp HoS.gex VT/
+gawk -f add_vt.awk HoS.gex >> VT/HoS.gex
+cp INV1_V2XGEX VT/
+gawk -f add_vt.awk INV1_V2XGEX >> VT/INV1_V2XGEX
+cp LOGO_3ho.gex VT/
+gawk -f add_vt.awk LOGO_3ho.gex >> VT/LOGO_3ho.gex
+cp LOGO_MkLSI1.gex VT/
+gawk -f add_vt.awk LOGO_MkLSI1.gex >> VT/LOGO_MkLSI1.gex
+cp LOGO_MkLSI2.gex VT/
+gawk -f add_vt.awk LOGO_MkLSI2.gex >> VT/LOGO_MkLSI2.gex
+cp LOGO_cure.gex VT/
+gawk -f add_vt.awk LOGO_cure.gex >> VT/LOGO_cure.gex
+cp LOGO_noumiso100.gex VT/
+gawk -f add_vt.awk LOGO_noumiso100.gex >> VT/LOGO_noumiso100.gex
+cp LOGO_oshio_ver2.gex VT/
+gawk -f add_vt.awk LOGO_oshio_ver2.gex >> VT/LOGO_oshio_ver2.gex
+cp LOGO_ss.gex VT/
+gawk -f add_vt.awk LOGO_ss.gex >> VT/LOGO_ss.gex
+cp M2_M1 VT/
+gawk -f add_vt.awk M2_M1 >> VT/M2_M1
+cp NAND2_V2XGEX VT/
+gawk -f add_vt.awk NAND2_V2XGEX >> VT/NAND2_V2XGEX
+cp NMOS1.gex VT/
+gawk -f add_vt.awk NMOS1.gex >> VT/NMOS1.gex
+cp PMOS1.gex VT/
+gawk -f add_vt.awk PMOS1.gex >> VT/PMOS1.gex
+cp PSG7.gex VT/
+gawk -f add_vt.awk PSG7.gex >> VT/PSG7.gex
+cp R5k.gex VT/
+gawk -f add_vt.awk R5k.gex >> VT/R5k.gex
+cp RingVCO.gex VT/
+gawk -f add_vt.awk RingVCO.gex >> VT/RingVCO.gex
+cp VCOCtrl.gex VT/
+gawk -f add_vt.awk VCOCtrl.gex >> VT/VCOCtrl.gex
+cp VIA12_1x2.gex VT/
+gawk -f add_vt.awk VIA12_1x2.gex >> VT/VIA12_1x2.gex
+cp VIA12_2x5.gex VT/
+gawk -f add_vt.awk VIA12_2x5.gex >> VT/VIA12_2x5.gex
+cp XOR2_V2XGEX VT/
+gawk -f add_vt.awk XOR2_V2XGEX >> VT/XOR2_V2XGEX
+cp a.sh VT/
+gawk -f add_vt.awk a.sh >> VT/a.sh
+cp a.shqpwd VT/
+gawk -f add_vt.awk a.shqpwd >> VT/a.shqpwd
+cp a2_x2 VT/
+gawk -f add_vt.awk a2_x2 >> VT/a2_x2
+cp add_vt.awk VT/
+gawk -f add_vt.awk add_vt.awk >> VT/add_vt.awk
+cp an12_x1 VT/
+gawk -f add_vt.awk an12_x1 >> VT/an12_x1
+cp and2_v2.gex VT/
+gawk -f add_vt.awk and2_v2.gex >> VT/and2_v2.gex
+cp and3_v2.gex VT/
+gawk -f add_vt.awk and3_v2.gex >> VT/and3_v2.gex
+cp and4_v2.gex VT/
+gawk -f add_vt.awk and4_v2.gex >> VT/and4_v2.gex
+cp buf_x2 VT/
+gawk -f add_vt.awk buf_x2 >> VT/buf_x2
+cp buf_x8 VT/
+gawk -f add_vt.awk buf_x8 >> VT/buf_x8
+cp cmp-akita.gex VT/
+gawk -f add_vt.awk cmp-akita.gex >> VT/cmp-akita.gex
+cp deltasigma.gex VT/
+gawk -f add_vt.awk deltasigma.gex >> VT/deltasigma.gex
+cp dff_cell VT/
+gawk -f add_vt.awk dff_cell >> VT/dff_cell
+cp dff_r_v2_tt.gex VT/
+gawk -f add_vt.awk dff_r_v2_tt.gex >> VT/dff_r_v2_tt.gex
+cp dff_v2_tt.gex VT/
+gawk -f add_vt.awk dff_v2_tt.gex >> VT/dff_v2_tt.gex
+cp effector2016_flat.gex VT/
+gawk -f add_vt.awk effector2016_flat.gex >> VT/effector2016_flat.gex
+cp effector2016final.gex VT/
+gawk -f add_vt.awk effector2016final.gex >> VT/effector2016final.gex
+cp er2.gex VT/
+gawk -f add_vt.awk er2.gex >> VT/er2.gex
+cp er4.gex VT/
+gawk -f add_vt.awk er4.gex >> VT/er4.gex
+cp er8.gex VT/
+gawk -f add_vt.awk er8.gex >> VT/er8.gex
+cp erunit.gex VT/
+gawk -f add_vt.awk erunit.gex >> VT/erunit.gex
+cp esd VT/
+gawk -f add_vt.awk esd >> VT/esd
+cp full_adder_3ho6.gex VT/
+gawk -f add_vt.awk full_adder_3ho6.gex >> VT/full_adder_3ho6.gex
+cp inv1-akita.gex VT/
+gawk -f add_vt.awk inv1-akita.gex >> VT/inv1-akita.gex
+cp inv1L2W10p20.gex VT/
+gawk -f add_vt.awk inv1L2W10p20.gex >> VT/inv1L2W10p20.gex
+cp inv1L3.gex VT/
+gawk -f add_vt.awk inv1L3.gex >> VT/inv1L3.gex
+cp inv1L3W50p75.gex VT/
+gawk -f add_vt.awk inv1L3W50p75.gex >> VT/inv1L3W50p75.gex
+cp inv1L4.gex VT/
+gawk -f add_vt.awk inv1L4.gex >> VT/inv1L4.gex
+cp inv1_v2.gex VT/
+gawk -f add_vt.awk inv1_v2.gex >> VT/inv1_v2.gex
+cp inv1_v2.new VT/
+gawk -f add_vt.awk inv1_v2.new >> VT/inv1_v2.new
+cp inv1_v2_special.gex VT/
+gawk -f add_vt.awk inv1_v2_special.gex >> VT/inv1_v2_special.gex
+cp inv_mat.gex VT/
+gawk -f add_vt.awk inv_mat.gex >> VT/inv_mat.gex
+cp matsumoto1.gex VT/
+gawk -f add_vt.awk matsumoto1.gex >> VT/matsumoto1.gex
+cp matsumoto_dac.gex VT/
+gawk -f add_vt.awk matsumoto_dac.gex >> VT/matsumoto_dac.gex
+cp meiro.gex VT/
+gawk -f add_vt.awk meiro.gex >> VT/meiro.gex
+cp mux2_v2.gex VT/
+gawk -f add_vt.awk mux2_v2.gex >> VT/mux2_v2.gex
+cp na2_x1 VT/
+gawk -f add_vt.awk na2_x1 >> VT/na2_x1
+cp na2_x1.gex VT/
+gawk -f add_vt.awk na2_x1.gex >> VT/na2_x1.gex
+cp nand2_v2.gex VT/
+gawk -f add_vt.awk nand2_v2.gex >> VT/nand2_v2.gex
+cp nand2_v2_short.gex VT/
+gawk -f add_vt.awk nand2_v2_short.gex >> VT/nand2_v2_short.gex
+cp nand4_v2.gex VT/
+gawk -f add_vt.awk nand4_v2.gex >> VT/nand4_v2.gex
+cp no2_x1 VT/
+gawk -f add_vt.awk no2_x1 >> VT/no2_x1
+cp nor2-akita.gex VT/
+gawk -f add_vt.awk nor2-akita.gex >> VT/nor2-akita.gex
+cp nor3_v2.gex VT/
+gawk -f add_vt.awk nor3_v2.gex >> VT/nor3_v2.gex
+cp nrzi.gex VT/
+gawk -f add_vt.awk nrzi.gex >> VT/nrzi.gex
+cp nxr2_x1 VT/
+gawk -f add_vt.awk nxr2_x1 >> VT/nxr2_x1
+cp oa2a22_x2 VT/
+gawk -f add_vt.awk oa2a22_x2 >> VT/oa2a22_x2
+cp or2_v2.gex VT/
+gawk -f add_vt.awk or2_v2.gex >> VT/or2_v2.gex
+cp or3_v2.gex VT/
+gawk -f add_vt.awk or3_v2.gex >> VT/or3_v2.gex
+cp or4_v2.gex VT/
+gawk -f add_vt.awk or4_v2.gex >> VT/or4_v2.gex
+cp pad VT/
+gawk -f add_vt.awk pad >> VT/pad
+cp pad_all VT/
+gawk -f add_vt.awk pad_all >> VT/pad_all
+cp ring15.gex VT/
+gawk -f add_vt.awk ring15.gex >> VT/ring15.gex
+cp ring15fat.gex VT/
+gawk -f add_vt.awk ring15fat.gex >> VT/ring15fat.gex
+cp ring7.gex VT/
+gawk -f add_vt.awk ring7.gex >> VT/ring7.gex
+cp rings_top.gex VT/
+gawk -f add_vt.awk rings_top.gex >> VT/rings_top.gex
+cp rings_topbox.gex VT/
+gawk -f add_vt.awk rings_topbox.gex >> VT/rings_topbox.gex
+cp rowend_x0 VT/
+gawk -f add_vt.awk rowend_x0 >> VT/rowend_x0
+cp sff1_x4 VT/
+gawk -f add_vt.awk sff1_x4 >> VT/sff1_x4
+cp shmz.gex VT/
+gawk -f add_vt.awk shmz.gex >> VT/shmz.gex
+cp tt_and2_v2.gex VT/
+gawk -f add_vt.awk tt_and2_v2.gex >> VT/tt_and2_v2.gex
+cp tt_and3_v2.gex VT/
+gawk -f add_vt.awk tt_and3_v2.gex >> VT/tt_and3_v2.gex
+cp tt_and4_v2.gex VT/
+gawk -f add_vt.awk tt_and4_v2.gex >> VT/tt_and4_v2.gex
+cp tt_dff_r_v2.gex VT/
+gawk -f add_vt.awk tt_dff_r_v2.gex >> VT/tt_dff_r_v2.gex
+cp tt_dff_v2.gex VT/
+gawk -f add_vt.awk tt_dff_v2.gex >> VT/tt_dff_v2.gex
+cp tt_inv1_v2.gex VT/
+gawk -f add_vt.awk tt_inv1_v2.gex >> VT/tt_inv1_v2.gex
+cp tt_mux2_v2.gex VT/
+gawk -f add_vt.awk tt_mux2_v2.gex >> VT/tt_mux2_v2.gex
+cp tt_nand2_v2.gex VT/
+gawk -f add_vt.awk tt_nand2_v2.gex >> VT/tt_nand2_v2.gex
+cp tt_nand4_v2.gex VT/
+gawk -f add_vt.awk tt_nand4_v2.gex >> VT/tt_nand4_v2.gex
+cp tt_nor3_v2.gex VT/
+gawk -f add_vt.awk tt_nor3_v2.gex >> VT/tt_nor3_v2.gex
+cp tt_or2_v2.gex VT/
+gawk -f add_vt.awk tt_or2_v2.gex >> VT/tt_or2_v2.gex
+cp tt_or3_v2.gex VT/
+gawk -f add_vt.awk tt_or3_v2.gex >> VT/tt_or3_v2.gex
+cp tt_or4_v2.gex VT/
+gawk -f add_vt.awk tt_or4_v2.gex >> VT/tt_or4_v2.gex
+cp tt_xor2_v2.gex VT/
+gawk -f add_vt.awk tt_xor2_v2.gex >> VT/tt_xor2_v2.gex
+cp wachi64.gex VT/
+gawk -f add_vt.awk wachi64.gex >> VT/wachi64.gex
+cp xor2_v2.gex VT/
+gawk -f add_vt.awk xor2_v2.gex >> VT/xor2_v2.gex
+cp xr2_x1 VT/
+gawk -f add_vt.awk xr2_x1 >> VT/xr2_x1

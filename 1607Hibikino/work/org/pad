@@ -1,0 +1,7 @@
+; structure creation     : 1/1/70 (9:0:0)
+; structure modification : 26/6/115 (22:58:17)
+; structure name : pad
+L 14
+B -1250 -3050 -1150 -2950
+L 15
+B -1245 -3045 -1155 -2955

@@ -1,0 +1,171 @@
+* SPICE FET model
+.lib 'mos_tt.lib'
+mfet1 1 39 39 1 pch w=150u l=3u
+mfet2 1 39 30 1 pch w=150u l=3u
+mfet3 1 39 2 1 pch w=300u l=3u
+mfet4 6 21 20 1 pch w=10u l=2u
+mfet5 1 21 22 1 pch w=20u l=2u
+mfet6 1 11 21 1 pch w=10u l=2u
+mfet7 6 6 20 6 pch w=100u l=2u
+mfet8 5 22 20 1 pch w=150u l=2u
+mfet9 6 20 20 20 pch w=100u l=2u
+mfet10 6 6 23 7 pch w=150u l=2u
+mfet11 6 27 25 1 pch w=10u l=2u
+mfet12 6 23 23 7 pch w=150u l=2u
+mfet13 6 24 23 1 pch w=10u l=2u
+mfet14 1 27 26 1 pch w=20u l=2u
+mfet15 5 26 25 1 pch w=150u l=2u
+mfet16 1 24 28 1 pch w=20u l=2u
+mfet17 1 13 27 1 pch w=10u l=2u
+mfet18 5 28 23 1 pch w=150u l=2u
+mfet19 1 12 24 1 pch w=10u l=2u
+mfet20 29 36 34 29 pch w=75u l=4u
+mfet21 31 36 36 31 pch w=75u l=2u
+mfet22 30 31 31 30 pch w=75u l=2u
+mfet23 29 3 30 30 pch w=75u l=3u
+mfet24 30 4 35 30 pch w=75u l=3u
+mfet25 35 36 37 35 pch w=75u l=4u
+mfet26 1 59 59 1 pch w=150u l=3u
+mfet27 1 59 50 1 pch w=150u l=3u
+mfet28 1 59 18 1 pch w=300u l=3u
+mfet29 19 41 40 1 pch w=10u l=2u
+mfet30 1 41 42 1 pch w=20u l=2u
+mfet31 15 42 40 1 pch w=150u l=2u
+mfet32 19 19 40 19 pch w=100u l=2u
+mfet33 19 40 40 40 pch w=100u l=2u
+mfet34 1 8 41 1 pch w=10u l=2u
+mfet35 19 19 43 14 pch w=150u l=2u
+mfet36 19 48 46 1 pch w=10u l=2u
+mfet37 19 43 43 14 pch w=150u l=2u
+mfet38 19 44 43 1 pch w=10u l=2u
+mfet39 1 48 45 1 pch w=20u l=2u
+mfet40 15 45 46 1 pch w=150u l=2u
+mfet41 1 44 47 1 pch w=20u l=2u
+mfet42 1 10 48 1 pch w=10u l=2u
+mfet43 15 47 43 1 pch w=150u l=2u
+mfet44 1 9 44 1 pch w=10u l=2u
+mfet45 49 56 54 49 pch w=75u l=4u
+mfet46 51 56 56 51 pch w=75u l=2u
+mfet47 50 51 51 50 pch w=75u l=2u
+mfet48 49 19 50 50 pch w=75u l=3u
+mfet49 50 6 55 50 pch w=75u l=3u
+mfet50 55 56 57 55 pch w=75u l=4u
+mfet51 6 6 25 0 nch w=200u l=2u
+mfet52 6 25 25 0 nch w=200u l=2u
+mfet53 6 28 23 0 nch w=6u l=2u
+mfet54 6 22 20 0 nch w=6u l=2u
+mfet55 5 21 20 0 nch w=150u l=2u
+mfet56 6 26 25 0 nch w=6u l=2u
+mfet57 0 24 28 0 nch w=12u l=2u
+mfet58 0 21 22 0 nch w=12u l=2u
+mfet59 0 13 27 0 nch w=6u l=2u
+mfet60 0 12 24 0 nch w=6u l=2u
+mfet61 5 27 25 0 nch w=150u l=2u
+mfet62 5 24 23 0 nch w=150u l=2u
+mfet63 0 27 26 0 nch w=12u l=2u
+mfet64 0 11 21 0 nch w=6u l=2u
+mfet65 0 17 39 0 nch w=100u l=3u
+mfet66 0 17 17 0 nch w=100u l=3u
+mfet67 0 38 38 0 nch w=50u l=3u
+mfet68 0 17 36 0 nch w=50u l=3u
+mfet69 37 37 38 0 nch w=50u l=3u
+mfet70 0 33 2 0 nch w=300u l=3u
+mfet71 0 38 33 0 nch w=50u l=3u
+mfet72 32 37 34 0 nch w=50u l=3u
+mfet73 1 34 33 0 nch w=50u l=3u
+mfet74 0 38 32 0 nch w=50u l=3u
+mfet75 19 19 46 0 nch w=200u l=2u
+mfet76 19 46 46 0 nch w=200u l=2u
+mfet77 19 47 43 0 nch w=6u l=2u
+mfet78 19 42 40 0 nch w=6u l=2u
+mfet79 15 41 40 0 nch w=150u l=2u
+mfet80 19 45 46 0 nch w=6u l=2u
+mfet81 0 10 48 0 nch w=6u l=2u
+mfet82 15 44 43 0 nch w=150u l=2u
+mfet83 0 44 47 0 nch w=12u l=2u
+mfet84 15 48 46 0 nch w=150u l=2u
+mfet85 0 9 44 0 nch w=6u l=2u
+mfet86 0 41 42 0 nch w=12u l=2u
+mfet87 0 48 45 0 nch w=12u l=2u
+mfet88 0 8 41 0 nch w=6u l=2u
+mfet89 0 16 59 0 nch w=100u l=3u
+mfet90 0 16 16 0 nch w=100u l=3u
+mfet91 0 58 58 0 nch w=50u l=3u
+mfet92 0 16 56 0 nch w=50u l=3u
+mfet93 57 57 58 0 nch w=50u l=3u
+mfet94 0 53 18 0 nch w=300u l=3u
+mfet95 0 58 53 0 nch w=50u l=3u
+mfet96 52 57 54 0 nch w=50u l=3u
+mfet97 1 54 53 0 nch w=50u l=3u
+mfet98 0 58 52 0 nch w=50u l=3u
+c1 0 20 0.1889pF
+c2 0 5 0.2694pF
+c3 0 11 0.033pF
+c4 0 21 0.0748pF
+c5 0 6 0.6079pF
+c6 0 22 0.0467pF
+c7 0 28 0.0467pF
+c8 0 24 0.0688pF
+c9 0 12 0.0334pF
+c10 0 13 0.0334pF
+c11 0 27 0.0432pF
+c12 0 25 0.3203pF
+c13 0 26 0.052pF
+c14 0 23 0.1269pF
+c15 0 34 0.3984pF
+c16 0 1 2.6637pF
+c17 0 33 0.0647pF
+c18 0 38 0.0657pF
+c19 0 32 0.04pF
+c20 0 39 0.1259pF
+c21 0 17 0.1332pF
+c22 0 37 0.1501pF
+c23 0 36 0.0212pF
+c24 0 30 0.1809pF
+c25 0 2 0.5238pF
+c26 0 15 0.2694pF
+c27 0 8 0.033pF
+c28 0 41 0.0748pF
+c29 0 42 0.0467pF
+c30 0 44 0.0688pF
+c31 0 9 0.0334pF
+c32 0 47 0.0467pF
+c33 0 10 0.0334pF
+c34 0 48 0.0432pF
+c35 0 45 0.052pF
+c36 0 19 0.9213pF
+c37 0 46 0.3203pF
+c38 0 40 0.1889pF
+c39 0 43 0.1269pF
+c40 0 54 0.3984pF
+c41 0 53 0.0647pF
+c42 0 52 0.04pF
+c43 0 58 0.0657pF
+c44 0 59 0.1259pF
+c45 0 16 0.1332pF
+c46 0 57 0.1501pF
+c47 0 56 0.0212pF
+c48 0 50 0.1809pF
+c49 0 18 0.5238pF
+.end
+** Net name table **
+*$ Gnd	0
+*$ Vdd	1
+*$ Voutop1	2
+*$ Vinop1+	3
+*$ Vinop1-	4
+*$ Voutd1	5
+*$ Vind1	6
+*$ Vb1cont	7
+*$ Dsw4	8
+*$ Dsw5	9
+*$ Dsw6	10
+*$ Dsw1	11
+*$ Dsw2	12
+*$ Dsw3	13
+*$ Vb2cont	14
+*$ Vinoutd2	15
+*$ Vbiasop2	16
+*$ Vbiasop1	17
+*$ Voutop2	18
+*$ VN	19

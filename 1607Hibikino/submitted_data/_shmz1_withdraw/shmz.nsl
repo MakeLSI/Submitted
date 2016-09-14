@@ -1,0 +1,14 @@
+declare shmz {
+  input sh[2];
+  output mz[2];
+  func_in ex(sh):mz;
+}
+
+module shmz {
+  reg r[2]=0;
+func ex {
+  r:=r+sh;
+  return r;
+}
+}
+

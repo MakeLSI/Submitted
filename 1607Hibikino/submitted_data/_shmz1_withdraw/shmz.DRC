@@ -1,0 +1,685 @@
+;@DRC@(15 49) element gap<2um
+B 15 49 16 61
+; --> DRC(element gap) in (15,49)x(16,61)
+;@DRC@(84 49) element gap<2um
+B 84 49 86 61
+; --> DRC(element gap) in (84,49)x(86,61)
+;@DRC@(192 49) element gap<2um
+B 192 49 194 61
+; --> DRC(element gap) in (192,49)x(194,61)
+;@DRC@(123 49) element gap<2um
+B 123 49 124 61
+; --> DRC(element gap) in (123,49)x(124,61)
+;@DRC@(435 37) element gap<2um
+B 435 37 436 61
+; --> DRC(element gap) in (435,37)x(436,61)
+;@DRC@(435 49) element gap<2um
+B 435 49 436 61
+; --> DRC(element gap) in (435,49)x(436,61)
+;@DRC@(435 49) element gap<2um
+B 435 49 436 61
+; --> DRC(element gap) in (435,49)x(436,61)
+;@DRC@(435 47) element gap<2um
+B 435 47 436 61
+; --> DRC(element gap) in (435,47)x(436,61)
+;@DRC@(423 49) element gap<2um
+B 423 49 424 63
+; --> DRC(element gap) in (423,49)x(424,63)
+;@DRC@(423 49) element gap<2um
+B 423 49 424 73
+; --> DRC(element gap) in (423,49)x(424,73)
+;@DRC@(423 49) element gap<2um
+B 423 49 424 61
+; --> DRC(element gap) in (423,49)x(424,61)
+;@DRC@(423 49) element gap<2um
+B 423 49 424 61
+; --> DRC(element gap) in (423,49)x(424,61)
+;@DRC@(483 49) element gap<2um
+B 483 49 484 63
+; --> DRC(element gap) in (483,49)x(484,63)
+;@DRC@(483 49) element gap<2um
+B 483 49 484 73
+; --> DRC(element gap) in (483,49)x(484,73)
+;@DRC@(483 49) element gap<2um
+B 483 49 484 61
+; --> DRC(element gap) in (483,49)x(484,61)
+;@DRC@(483 49) element gap<2um
+B 483 49 484 61
+; --> DRC(element gap) in (483,49)x(484,61)
+;@DRC@(495 37) element gap<2um
+B 495 37 496 61
+; --> DRC(element gap) in (495,37)x(496,61)
+;@DRC@(495 49) element gap<2um
+B 495 49 496 61
+; --> DRC(element gap) in (495,49)x(496,61)
+;@DRC@(495 49) element gap<2um
+B 495 49 496 61
+; --> DRC(element gap) in (495,49)x(496,61)
+;@DRC@(495 47) element gap<2um
+B 495 47 496 61
+; --> DRC(element gap) in (495,47)x(496,61)
+;@DRC@(392 224) element gap<2um
+B 392 224 393 236
+; --> DRC(element gap) in (392,224)x(393,236)
+;@DRC@(375 224) element gap<2um
+B 375 224 376 236
+; --> DRC(element gap) in (375,224)x(376,236)
+;@DRC@(423 224) element gap<2um
+B 423 224 424 236
+; --> DRC(element gap) in (423,224)x(424,236)
+;@DRC@(492 224) element gap<2um
+B 492 224 494 236
+; --> DRC(element gap) in (492,224)x(494,236)
+;@DRC@(152 224) element gap<2um
+B 152 224 153 236
+; --> DRC(element gap) in (152,224)x(153,236)
+;@DRC@(140 224) element gap<2um
+B 140 224 141 236
+; --> DRC(element gap) in (140,224)x(141,236)
+;@DRC@(123 224) element gap<2um
+B 123 224 124 236
+; --> DRC(element gap) in (123,224)x(124,236)
+;@DRC@(12 224) element gap<2um
+B 12 224 14 236
+; --> DRC(element gap) in (12,224)x(14,236)
+;@DRC@(58 224) element gap<2um
+B 58 224 60 236
+; --> DRC(element gap) in (58,224)x(60,236)
+;@DRC@(15 405) element gap<2um
+B 15 405 16 412
+; --> DRC(element gap) in (15,405)x(16,412)
+;@DRC@(75 400) element gap<2um
+B 75 400 76 412
+; --> DRC(element gap) in (75,400)x(76,412)
+;@DRC@(63 400) element gap<2um
+B 63 400 64 412
+; --> DRC(element gap) in (63,400)x(64,412)
+;@DRC@(106 400) element gap<2um
+B 106 400 108 412
+; --> DRC(element gap) in (106,400)x(108,412)
+;@DRC@(118 400) element gap<2um
+B 118 400 119 412
+; --> DRC(element gap) in (118,400)x(119,412)
+;@DRC@(178 388) element gap<2um
+B 178 388 180 400
+; --> DRC(element gap) in (178,388)x(180,400)
+;@DRC@(178 398) element gap<2um
+B 178 398 180 400
+; --> DRC(element gap) in (178,398)x(180,400)
+;@DRC@(190 400) element gap<2um
+B 190 400 191 402
+; --> DRC(element gap) in (190,400)x(191,402)
+;@DRC@(190 400) element gap<2um
+B 190 400 191 412
+; --> DRC(element gap) in (190,400)x(191,412)
+;@DRC@(190 400) element gap<2um
+B 190 400 191 402
+; --> DRC(element gap) in (190,400)x(191,402)
+;@DRC@(149 400) element gap<2um
+B 149 400 151 402
+; --> DRC(element gap) in (149,400)x(151,402)
+;@DRC@(149 400) element gap<2um
+B 149 400 151 412
+; --> DRC(element gap) in (149,400)x(151,412)
+;@DRC@(161 388) element gap<2um
+B 161 388 163 400
+; --> DRC(element gap) in (161,388)x(163,400)
+;@DRC@(161 398) element gap<2um
+B 161 398 163 400
+; --> DRC(element gap) in (161,398)x(163,400)
+;@DRC@(221 400) element gap<2um
+B 221 400 223 412
+; --> DRC(element gap) in (221,400)x(223,412)
+;@DRC@(488 400) element gap<2um
+B 488 400 489 412
+; --> DRC(element gap) in (488,400)x(489,412)
+;@DRC@(471 400) element gap<2um
+B 471 400 472 412
+; --> DRC(element gap) in (471,400)x(472,412)
+;@DRC@(519 405) element gap<2um
+B 519 405 520 412
+; --> DRC(element gap) in (519,405)x(520,412)
+;@DRC@(15 563) element gap<2um
+B 15 563 16 575
+; --> DRC(element gap) in (15,563)x(16,575)
+;@DRC@(27 563) element gap<2um
+B 27 563 28 575
+; --> DRC(element gap) in (27,563)x(28,575)
+;@DRC@(58 563) element gap<2um
+B 58 563 60 575
+; --> DRC(element gap) in (58,563)x(60,575)
+;@DRC@(70 563) element gap<2um
+B 70 563 71 575
+; --> DRC(element gap) in (70,563)x(71,575)
+;@DRC@(142 563) element gap<2um
+B 142 563 143 565
+; --> DRC(element gap) in (142,563)x(143,565)
+;@DRC@(142 563) element gap<2um
+B 142 563 143 565
+; --> DRC(element gap) in (142,563)x(143,565)
+;@DRC@(142 563) element gap<2um
+B 142 563 143 575
+; --> DRC(element gap) in (142,563)x(143,575)
+;@DRC@(101 563) element gap<2um
+B 101 563 103 575
+; --> DRC(element gap) in (101,563)x(103,575)
+;@DRC@(101 563) element gap<2um
+B 101 563 103 565
+; --> DRC(element gap) in (101,563)x(103,565)
+;@DRC@(130 561) element gap<2um
+B 130 561 132 563
+; --> DRC(element gap) in (130,561)x(132,563)
+;@DRC@(130 551) element gap<2um
+B 130 551 132 563
+; --> DRC(element gap) in (130,551)x(132,563)
+;@DRC@(173 563) element gap<2um
+B 173 563 175 575
+; --> DRC(element gap) in (173,563)x(175,575)
+;@DRC@(113 561) element gap<2um
+B 113 561 115 563
+; --> DRC(element gap) in (113,561)x(115,563)
+;@DRC@(113 551) element gap<2um
+B 113 551 115 563
+; --> DRC(element gap) in (113,551)x(115,563)
+;@DRC@(123 109) element gap<2um
+B 123 109 124 133
+; --> DRC(element gap) in (123,109)x(124,133)
+;@DRC@(192 109) element gap<2um
+B 192 109 194 133
+; --> DRC(element gap) in (192,109)x(194,133)
+;@DRC@(437 109) element gap<2um
+B 437 109 439 133
+; --> DRC(element gap) in (437,109)x(439,133)
+;@DRC@(420 109) element gap<2um
+B 420 109 422 133
+; --> DRC(element gap) in (420,109)x(422,133)
+;@DRC@(15 109) element gap<2um
+B 15 109 16 133
+; --> DRC(element gap) in (15,109)x(16,133)
+;@DRC@(84 109) element gap<2um
+B 84 109 86 133
+; --> DRC(element gap) in (84,109)x(86,133)
+;@DRC@(480 109) element gap<2um
+B 480 109 482 133
+; --> DRC(element gap) in (480,109)x(482,133)
+;@DRC@(497 109) element gap<2um
+B 497 109 499 133
+; --> DRC(element gap) in (497,109)x(499,133)
+;@DRC@(44 284) element gap<2um
+B 44 284 45 308
+; --> DRC(element gap) in (44,284)x(45,308)
+;@DRC@(56 284) element gap<2um
+B 56 284 57 308
+; --> DRC(element gap) in (56,284)x(57,308)
+;@DRC@(152 272) element gap<2um
+B 152 272 153 296
+; --> DRC(element gap) in (152,272)x(153,296)
+;@DRC@(152 272) element gap<2um
+B 152 272 153 296
+; --> DRC(element gap) in (152,272)x(153,296)
+;@DRC@(423 284) element gap<2um
+B 423 284 424 308
+; --> DRC(element gap) in (423,284)x(424,308)
+;@DRC@(492 284) element gap<2um
+B 492 284 494 308
+; --> DRC(element gap) in (492,284)x(494,308)
+;@DRC@(15 448) element gap<2um
+B 15 448 16 462
+; --> DRC(element gap) in (15,448)x(16,462)
+;@DRC@(75 460) element gap<2um
+B 75 460 76 484
+; --> DRC(element gap) in (75,460)x(76,484)
+;@DRC@(63 460) element gap<2um
+B 63 460 64 484
+; --> DRC(element gap) in (63,460)x(64,484)
+;@DRC@(149 460) element gap<2um
+B 149 460 151 484
+; --> DRC(element gap) in (149,460)x(151,484)
+;@DRC@(149 470) element gap<2um
+B 149 470 151 484
+; --> DRC(element gap) in (149,470)x(151,484)
+;@DRC@(149 472) element gap<2um
+B 149 472 151 484
+; --> DRC(element gap) in (149,472)x(151,484)
+;@DRC@(149 472) element gap<2um
+B 149 472 151 484
+; --> DRC(element gap) in (149,472)x(151,484)
+;@DRC@(221 472) element gap<2um
+B 221 472 223 484
+; --> DRC(element gap) in (221,472)x(223,484)
+;@DRC@(221 472) element gap<2um
+B 221 472 223 496
+; --> DRC(element gap) in (221,472)x(223,496)
+;@DRC@(161 472) element gap<2um
+B 161 472 163 496
+; --> DRC(element gap) in (161,472)x(163,496)
+;@DRC@(161 472) element gap<2um
+B 161 472 163 486
+; --> DRC(element gap) in (161,472)x(163,486)
+;@DRC@(161 472) element gap<2um
+B 161 472 163 484
+; --> DRC(element gap) in (161,472)x(163,484)
+;@DRC@(161 472) element gap<2um
+B 161 472 163 484
+; --> DRC(element gap) in (161,472)x(163,484)
+;@DRC@(132 460) element gap<2um
+B 132 460 134 484
+; --> DRC(element gap) in (132,460)x(134,484)
+;@DRC@(132 470) element gap<2um
+B 132 470 134 484
+; --> DRC(element gap) in (132,470)x(134,484)
+;@DRC@(132 472) element gap<2um
+B 132 472 134 484
+; --> DRC(element gap) in (132,472)x(134,484)
+;@DRC@(132 472) element gap<2um
+B 132 472 134 484
+; --> DRC(element gap) in (132,472)x(134,484)
+;@DRC@(121 472) element gap<2um
+B 121 472 122 486
+; --> DRC(element gap) in (121,472)x(122,486)
+;@DRC@(121 472) element gap<2um
+B 121 472 122 496
+; --> DRC(element gap) in (121,472)x(122,496)
+;@DRC@(121 472) element gap<2um
+B 121 472 122 484
+; --> DRC(element gap) in (121,472)x(122,484)
+;@DRC@(121 472) element gap<2um
+B 121 472 122 484
+; --> DRC(element gap) in (121,472)x(122,484)
+;@DRC@(519 448) element gap<2um
+B 519 448 520 462
+; --> DRC(element gap) in (519,448)x(520,462)
+;@DRC@(15 623) element gap<2um
+B 15 623 16 647
+; --> DRC(element gap) in (15,623)x(16,647)
+;@DRC@(27 623) element gap<2um
+B 27 623 28 647
+; --> DRC(element gap) in (27,623)x(28,647)
+;@DRC@(73 635) element gap<2um
+B 73 635 74 647
+; --> DRC(element gap) in (73,635)x(74,647)
+;@DRC@(73 635) element gap<2um
+B 73 635 74 659
+; --> DRC(element gap) in (73,635)x(74,659)
+;@DRC@(73 635) element gap<2um
+B 73 635 74 649
+; --> DRC(element gap) in (73,635)x(74,649)
+;@DRC@(73 635) element gap<2um
+B 73 635 74 647
+; --> DRC(element gap) in (73,635)x(74,647)
+;@DRC@(84 635) element gap<2um
+B 84 635 86 647
+; --> DRC(element gap) in (84,635)x(86,647)
+;@DRC@(84 635) element gap<2um
+B 84 635 86 647
+; --> DRC(element gap) in (84,635)x(86,647)
+;@DRC@(84 623) element gap<2um
+B 84 623 86 647
+; --> DRC(element gap) in (84,623)x(86,647)
+;@DRC@(84 633) element gap<2um
+B 84 633 86 647
+; --> DRC(element gap) in (84,633)x(86,647)
+;@DRC@(101 633) element gap<2um
+B 101 633 103 647
+; --> DRC(element gap) in (101,633)x(103,647)
+;@DRC@(101 623) element gap<2um
+B 101 623 103 647
+; --> DRC(element gap) in (101,623)x(103,647)
+;@DRC@(101 635) element gap<2um
+B 101 635 103 647
+; --> DRC(element gap) in (101,635)x(103,647)
+;@DRC@(101 635) element gap<2um
+B 101 635 103 647
+; --> DRC(element gap) in (101,635)x(103,647)
+;@DRC@(113 635) element gap<2um
+B 113 635 115 649
+; --> DRC(element gap) in (113,635)x(115,649)
+;@DRC@(113 635) element gap<2um
+B 113 635 115 659
+; --> DRC(element gap) in (113,635)x(115,659)
+;@DRC@(113 635) element gap<2um
+B 113 635 115 647
+; --> DRC(element gap) in (113,635)x(115,647)
+;@DRC@(113 635) element gap<2um
+B 113 635 115 647
+; --> DRC(element gap) in (113,635)x(115,647)
+;@DRC@(173 635) element gap<2um
+B 173 635 175 647
+; --> DRC(element gap) in (173,635)x(175,647)
+;@DRC@(173 635) element gap<2um
+B 173 635 175 659
+; --> DRC(element gap) in (173,635)x(175,659)
+;@DRC@(166 549) Contact_Overlap_Err_ACT
+B 166 549 169 555
+;@DRC@(148 549) Contact_Overlap_Err_ACT
+B 148 549 151 555
+;@DRC@(94 549) Contact_Overlap_Err_ACT
+B 94 549 97 555
+;@DRC@(76 549) Contact_Overlap_Err_ACT
+B 76 549 79 555
+;@DRC@(50 549) Contact_Overlap_Err_ACT
+B 50 549 53 555
+;@DRC@(33 549) Contact_Overlap_Err_ACT
+B 33 549 36 555
+;@DRC@(4 495) Contact_Overlap_Err_ACT
+B 4 495 10 498
+;@DRC@(4 480) Contact_Overlap_Err_ACT
+B 4 480 10 483
+;@DRC@(508 495) Contact_Overlap_Err_ACT
+B 508 495 514 498
+;@DRC@(508 480) Contact_Overlap_Err_ACT
+B 508 480 514 483
+;@DRC@(214 386) Contact_Overlap_Err_ACT
+B 214 386 217 392
+;@DRC@(196 386) Contact_Overlap_Err_ACT
+B 196 386 199 392
+;@DRC@(142 386) Contact_Overlap_Err_ACT
+B 142 386 145 392
+;@DRC@(124 386) Contact_Overlap_Err_ACT
+B 124 386 127 392
+;@DRC@(98 386) Contact_Overlap_Err_ACT
+B 98 386 101 392
+;@DRC@(81 386) Contact_Overlap_Err_ACT
+B 81 386 84 392
+;@DRC@(158 321) Contact_Overlap_Err_ACT
+B 158 321 164 322
+;@DRC@(38 316) Contact_Overlap_Err_ACT
+B 38 316 39 322
+;@DRC@(4 316) Contact_Overlap_Err_ACT
+B 4 316 5 322
+;@DRC@(511 210) Well_ChStp_Overlap_Error
+B 511 210 516 217
+;@DRC@(510 205) Well_ChStp_Overlap_Error
+B 510 205 516 210
+;@DRC@(514 217) Well_ChStp_Overlap_Error
+B 514 217 516 222
+;@DRC@(511 210) Well_ChStp_Overlap_Error
+B 511 210 516 217
+;@DRC@(510 205) Well_ChStp_Overlap_Error
+B 510 205 516 210
+;@DRC@(514 217) Well_ChStp_Overlap_Error
+B 514 217 516 222
+;@DRC@(211 35) Well_ChStp_Overlap_Error
+B 211 35 216 42
+;@DRC@(210 30) Well_ChStp_Overlap_Error
+B 210 30 216 35
+;@DRC@(214 42) Well_ChStp_Overlap_Error
+B 214 42 216 47
+;@DRC@(211 35) Well_ChStp_Overlap_Error
+B 211 35 216 42
+;@DRC@(210 30) Well_ChStp_Overlap_Error
+B 210 30 216 35
+;@DRC@(214 42) Well_ChStp_Overlap_Error
+B 214 42 216 47
+;@DRC@(103 35) Well_ChStp_Overlap_Error
+B 103 35 108 42
+;@DRC@(102 30) Well_ChStp_Overlap_Error
+B 102 30 108 35
+;@DRC@(103 35) Well_ChStp_Overlap_Error
+B 103 35 108 42
+;@DRC@(102 30) Well_ChStp_Overlap_Error
+B 102 30 108 35
+;@DRC@(501 88) VIA_POL_Overlap
+B 501 88 507 94
+;@DRC@(501 88) VIA_POL_Overlap
+B 501 88 507 94
+;@DRC@(441 88) VIA_POL_Overlap
+B 441 88 447 94
+;@DRC@(441 88) VIA_POL_Overlap
+B 441 88 447 94
+;@DRC@(429 267) VIA_POL_Overlap
+B 429 267 435 269
+;@DRC@(429 263) VIA_POL_Overlap
+B 429 263 435 269
+;@DRC@(493 263) VIA_POL_Overlap
+B 493 263 495 269
+;@DRC@(489 263) VIA_POL_Overlap
+B 489 263 495 269
+;@DRC@(393 263) VIA_POL_Overlap
+B 393 263 395 269
+;@DRC@(383 263) VIA_POL_Overlap
+B 383 263 385 269
+;@DRC@(381 263) VIA_POL_Overlap
+B 381 263 387 265
+;@DRC@(381 263) VIA_POL_Overlap
+B 381 263 387 269
+;@DRC@(477 439) VIA_POL_Overlap
+B 477 439 483 445
+;@DRC@(479 439) VIA_POL_Overlap
+B 479 439 481 445
+;@DRC@(477 439) VIA_POL_Overlap
+B 477 439 483 441
+;@DRC@(489 439) VIA_POL_Overlap
+B 489 439 491 445
+;@DRC@(525 439) VIA_POL_Overlap
+B 525 439 527 445
+;@DRC@(525 439) VIA_POL_Overlap
+B 525 439 527 445
+;@DRC@(13 263) VIA_POL_Overlap
+B 13 263 15 269
+;@DRC@(57 263) VIA_POL_Overlap
+B 57 263 59 269
+;@DRC@(145 263) VIA_POL_Overlap
+B 145 263 147 269
+;@DRC@(145 263) VIA_POL_Overlap
+B 145 263 147 269
+;@DRC@(129 263) VIA_POL_Overlap
+B 129 263 131 269
+;@DRC@(21 92) VIA_POL_Overlap
+B 21 92 27 94
+;@DRC@(21 88) VIA_POL_Overlap
+B 21 88 27 94
+;@DRC@(85 88) VIA_POL_Overlap
+B 85 88 87 94
+;@DRC@(81 92) VIA_POL_Overlap
+B 81 92 87 94
+;@DRC@(81 88) VIA_POL_Overlap
+B 81 88 87 94
+;@DRC@(129 92) VIA_POL_Overlap
+B 129 92 135 94
+;@DRC@(129 88) VIA_POL_Overlap
+B 129 88 135 94
+;@DRC@(193 88) VIA_POL_Overlap
+B 193 88 195 94
+;@DRC@(189 92) VIA_POL_Overlap
+B 189 92 195 94
+;@DRC@(189 88) VIA_POL_Overlap
+B 189 88 195 94
+;@DRC@(57 604) VIA_POL_Overlap
+B 57 604 63 606
+;@DRC@(21 604) VIA_POL_Overlap
+B 21 604 27 606
+;@DRC@(21 439) VIA_POL_Overlap
+B 21 439 23 445
+;@DRC@(21 439) VIA_POL_Overlap
+B 21 439 23 445
+;@DRC@(105 441) VIA_POL_Overlap
+B 105 441 111 443
+;@DRC@(69 441) VIA_POL_Overlap
+B 69 441 75 443
+;@DRC@(537 441) VIA_NWL_Overlap
+B 537 441 543 445
+;@DRC@(537 441) VIA_NWL_Overlap
+B 537 441 543 445
+;@DRC@(537 441) VIA_NWL_Overlap
+B 537 441 543 445
+;@DRC@(525 441) VIA_NWL_Overlap
+B 525 441 531 445
+;@DRC@(525 441) VIA_NWL_Overlap
+B 525 441 531 445
+;@DRC@(525 441) VIA_NWL_Overlap
+B 525 441 531 445
+;@DRC@(489 441) VIA_NWL_Overlap
+B 489 441 495 445
+;@DRC@(489 441) VIA_NWL_Overlap
+B 489 441 495 445
+;@DRC@(477 441) VIA_NWL_Overlap
+B 477 441 483 445
+;@DRC@(477 441) VIA_NWL_Overlap
+B 477 441 483 445
+;@DRC@(465 441) VIA_NWL_Overlap
+B 465 441 471 445
+;@DRC@(465 441) VIA_NWL_Overlap
+B 465 441 471 445
+;@DRC@(69 444) VIA_NWL_Overlap
+B 69 444 75 445
+;@DRC@(69 444) VIA_NWL_Overlap
+B 69 444 75 445
+;@DRC@(105 444) VIA_NWL_Overlap
+B 105 444 111 445
+;@DRC@(105 444) VIA_NWL_Overlap
+B 105 444 111 445
+;@DRC@(237 441) VIA_NWL_Overlap
+B 237 441 243 445
+;@DRC@(237 444) VIA_NWL_Overlap
+B 237 444 243 445
+;@DRC@(237 444) VIA_NWL_Overlap
+B 237 444 243 445
+;@DRC@(237 441) VIA_NWL_Overlap
+B 237 441 243 445
+;@DRC@(33 441) VIA_NWL_Overlap
+B 33 441 39 445
+;@DRC@(33 441) VIA_NWL_Overlap
+B 33 441 39 445
+;@DRC@(33 441) VIA_NWL_Overlap
+B 33 441 39 445
+;@DRC@(21 441) VIA_NWL_Overlap
+B 21 441 27 445
+;@DRC@(21 441) VIA_NWL_Overlap
+B 21 441 27 445
+;@DRC@(21 441) VIA_NWL_Overlap
+B 21 441 27 445
+;@DRC@(21 607) VIA_NWL_Overlap
+B 21 607 27 608
+;@DRC@(21 607) VIA_NWL_Overlap
+B 21 607 27 608
+;@DRC@(57 607) VIA_NWL_Overlap
+B 57 607 63 608
+;@DRC@(57 607) VIA_NWL_Overlap
+B 57 607 63 608
+;@DRC@(189 604) VIA_NWL_Overlap
+B 189 604 195 608
+;@DRC@(189 607) VIA_NWL_Overlap
+B 189 607 195 608
+;@DRC@(189 607) VIA_NWL_Overlap
+B 189 607 195 608
+;@DRC@(189 604) VIA_NWL_Overlap
+B 189 604 195 608
+;@DRC@(369 265) VIA_NWL_Overlap
+B 369 265 375 269
+;@DRC@(369 265) VIA_NWL_Overlap
+B 369 265 375 269
+;@DRC@(381 265) VIA_NWL_Overlap
+B 381 265 387 269
+;@DRC@(381 265) VIA_NWL_Overlap
+B 381 265 387 269
+;@DRC@(393 265) VIA_NWL_Overlap
+B 393 265 399 269
+;@DRC@(393 265) VIA_NWL_Overlap
+B 393 265 399 269
+;@DRC@(489 265) VIA_NWL_Overlap
+B 489 265 495 269
+;@DRC@(489 268) VIA_NWL_Overlap
+B 489 268 495 269
+;@DRC@(429 265) VIA_NWL_Overlap
+B 429 265 435 269
+;@DRC@(429 268) VIA_NWL_Overlap
+B 429 268 435 269
+;@DRC@(441 265) VIA_NWL_Overlap
+B 441 265 447 269
+;@DRC@(441 268) VIA_NWL_Overlap
+B 441 268 447 269
+;@DRC@(129 265) VIA_NWL_Overlap
+B 129 265 135 269
+;@DRC@(129 265) VIA_NWL_Overlap
+B 129 265 135 269
+;@DRC@(129 265) VIA_NWL_Overlap
+B 129 265 135 269
+;@DRC@(141 265) VIA_NWL_Overlap
+B 141 265 147 269
+;@DRC@(141 265) VIA_NWL_Overlap
+B 141 265 147 269
+;@DRC@(141 265) VIA_NWL_Overlap
+B 141 265 147 269
+;@DRC@(117 265) VIA_NWL_Overlap
+B 117 265 123 269
+;@DRC@(117 265) VIA_NWL_Overlap
+B 117 265 123 269
+;@DRC@(117 265) VIA_NWL_Overlap
+B 117 265 123 269
+;@DRC@(57 268) VIA_NWL_Overlap
+B 57 268 63 269
+;@DRC@(45 268) VIA_NWL_Overlap
+B 45 268 51 269
+;@DRC@(21 268) VIA_NWL_Overlap
+B 21 268 27 269
+;@DRC@(9 268) VIA_NWL_Overlap
+B 9 268 15 269
+;@DRC@(93 265) VIA_NWL_Overlap
+B 93 265 99 269
+;@DRC@(93 268) VIA_NWL_Overlap
+B 93 268 99 269
+;@DRC@(453 90) VIA_NWL_Overlap
+B 453 90 459 94
+;@DRC@(453 93) VIA_NWL_Overlap
+B 453 93 459 94
+;@DRC@(417 93) VIA_NWL_Overlap
+B 417 93 423 94
+;@DRC@(441 90) VIA_NWL_Overlap
+B 441 90 447 94
+;@DRC@(441 93) VIA_NWL_Overlap
+B 441 93 447 94
+;@DRC@(513 90) VIA_NWL_Overlap
+B 513 90 519 94
+;@DRC@(513 93) VIA_NWL_Overlap
+B 513 93 519 94
+;@DRC@(477 93) VIA_NWL_Overlap
+B 477 93 483 94
+;@DRC@(501 90) VIA_NWL_Overlap
+B 501 90 507 94
+;@DRC@(501 93) VIA_NWL_Overlap
+B 501 93 507 94
+;@DRC@(189 90) VIA_NWL_Overlap
+B 189 90 195 94
+;@DRC@(189 93) VIA_NWL_Overlap
+B 189 93 195 94
+;@DRC@(129 90) VIA_NWL_Overlap
+B 129 90 135 94
+;@DRC@(129 93) VIA_NWL_Overlap
+B 129 93 135 94
+;@DRC@(141 90) VIA_NWL_Overlap
+B 141 90 147 94
+;@DRC@(141 93) VIA_NWL_Overlap
+B 141 93 147 94
+;@DRC@(81 90) VIA_NWL_Overlap
+B 81 90 87 94
+;@DRC@(81 93) VIA_NWL_Overlap
+B 81 93 87 94
+;@DRC@(21 90) VIA_NWL_Overlap
+B 21 90 27 94
+;@DRC@(21 93) VIA_NWL_Overlap
+B 21 93 27 94
+;@DRC@(33 90) VIA_NWL_Overlap
+B 33 90 39 94
+;@DRC@(33 93) VIA_NWL_Overlap
+B 33 93 39 94
+;@DRC@(479 441) VIA_CNP_Overlap
+B 479 441 481 443
+;@DRC@(383 265) VIA_CNP_Overlap
+B 383 265 385 267
+;@DRC@(491 265) VIA_CNP_Overlap
+B 491 265 493 267
+;@DRC@(431 265) VIA_CNP_Overlap
+B 431 265 433 267
+;@DRC@(443 90) VIA_CNP_Overlap
+B 443 90 445 92
+;@DRC@(503 90) VIA_CNP_Overlap
+B 503 90 505 92
+;@DRC@(191 90) VIA_CNP_Overlap
+B 191 90 193 92
+;@DRC@(131 90) VIA_CNP_Overlap
+B 131 90 133 92
+;@DRC@(83 90) VIA_CNP_Overlap
+B 83 90 85 92
+;@DRC@(23 90) VIA_CNP_Overlap
+B 23 90 25 92

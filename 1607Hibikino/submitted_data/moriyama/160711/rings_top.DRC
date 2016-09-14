@@ -1,0 +1,103 @@
+;@DRC@(450 222) element gap<4um
+B 450 222 452 230
+; --> DRC(element gap) in (450,222)x(452,230)
+;@DRC@(450 88) element gap<4um
+B 450 88 452 100
+; --> DRC(element gap) in (450,88)x(452,100)
+;@DRC@(-124 208) element gap<4um
+B -124 208 -122 215
+; --> DRC(element gap) in (-124,208)x(-122,215)
+;@DRC@(-124 208) element gap<4um
+B -124 208 -122 214
+; --> DRC(element gap) in (-124,208)x(-122,214)
+;@DRC@(-124 208) element gap<4um
+B -124 208 -122 215
+; --> DRC(element gap) in (-124,208)x(-122,215)
+;@DRC@(-122 202) element gap<4um
+B -122 202 -117 203
+; --> DRC(element gap) in (-122,202)x(-117,203)
+;@DRC@(-122 202) element gap<4um
+B -122 202 -117 203
+; --> DRC(element gap) in (-122,202)x(-117,203)
+;@DRC@(-98 -22) element gap<4um
+B -98 -22 -97 -14
+; --> DRC(element gap) in (-98,-22)x(-97,-14)
+;@DRC@(-100 2) element gap<4um
+B -100 2 -97 10
+; --> DRC(element gap) in (-100,2)x(-97,10)
+;@DRC@(288 74) element gap<4um
+B 288 74 290 76
+;@DRC@(288 74) element gap<4um
+B 288 74 290 76
+; --> DRC(element gap) in (288,74)x(290,76)
+;@DRC@(287 15) element gap<4um
+B 287 15 290 23
+; --> DRC(element gap) in (287,15)x(290,23)
+;@DRC@(450 222) element gap<4um
+B 450 222 453 230
+; --> DRC(element gap) in (450,222)x(453,230)
+;@DRC@(-182 127) element gap<4um
+B -182 127 -180 135
+; --> DRC(element gap) in (-182,127)x(-180,135)
+;@DRC@(-183 50) element gap<4um
+B -183 50 -180 135
+; --> DRC(element gap) in (-183,50)x(-180,135)
+;@DRC@(-183 44) element gap<4um
+B -183 44 -180 52
+; --> DRC(element gap) in (-183,44)x(-180,52)
+;@DRC@(-183 132) element gap<4um
+B -183 132 -180 153
+; --> DRC(element gap) in (-183,132)x(-180,153)
+;@DRC@(-183 153) element gap<4um
+B -183 153 -180 159
+; --> DRC(element gap) in (-183,153)x(-180,159)
+;@DRC@(210 6) element gap<4um
+B 210 6 216 7
+; --> DRC(element gap) in (210,6)x(216,7)
+;@DRC@(-23 195) intra-gap<4um
+B -23 195 -21 241
+; --> DRC(intra-width/gap) in (-23,195)x(-21,241)
+;@DRC@(-22 270) intra-gap<4um
+B -22 270 -19 307
+; --> DRC(intra-width/gap) in (-22,270)x(-19,307)
+;@DRC@(83 -28) intra-gap<4um
+B 83 -28 85 -8
+; --> DRC(intra-width/gap) in (83,-28)x(85,-8)
+;@DRC@(-125 100) intra-gap<4um
+B -125 100 -123 112
+;@DRC@(-114 292) intra-gap<4um
+B -114 292 -111 304
+; --> DRC(intra-width/gap) in (-125,100)x(-111,304)
+;@DRC@(-111 202) intra-gap<4um
+B -111 202 -108 203
+; --> DRC(intra-width/gap) in (-111,202)x(-108,203)
+;@DRC@(-41 -165) intra-gap<4um
+B -41 -165 -38 -161
+;@DRC@(-304 -166) intra-gap<4um
+B -304 -166 -301 -164
+;@DRC@(-304 -169) intra-gap<4um
+B -304 -169 -303 -165
+; --> DRC(intra-width/gap) in (-304,-169)x(-38,-161)
+;@DRC@(-98 -15) intra-gap<4um
+B -98 -15 -96 -14
+; --> DRC(intra-width/gap) in (-98,-15)x(-96,-14)
+;@DRC@(-179 32) element width<6um
+B -179 32 -174 35
+;@DRC@(-179 32) element width<6um
+B -179 32 -174 35
+; --> DRC(intra-width/gap) in (-179,32)x(-174,35)
+;@DRC@(199 173) intra-gap<4um
+B 199 173 207 176
+;@DRC@(207 176) intra-gap<4um
+B 207 176 210 177
+;@DRC@(-14 249) intra-gap<4um
+B -14 249 -11 251
+; --> DRC(intra-width/gap) in (-14,173)x(210,251)
+;@DRC@(-117 204) VIAÇ™M2ÇÃèdÇ»ÇËÇ™è¨Ç≥Ç∑Ç¨ÇÈ(2umà»è„)
+B -117 204 -111 214
+;@DRC@(-157 -48) VIAÇ™M2ÇÃèdÇ»ÇËÇ™è¨Ç≥Ç∑Ç¨ÇÈ(2umà»è„)
+B -157 -48 -152 -42
+;@DRC@(-157 -42) VIAÇ™M2ÇÃèdÇ»ÇËÇ™è¨Ç≥Ç∑Ç¨ÇÈ(2umà»è„)
+B -157 -42 -149 -40
+;@DRC@(-447 351) VIAÇ∆POLÇÃä‘äuÇ™è¨Ç≥Ç∑Ç¨ÇÈ(1umà»è„)
+B -447 351 -441 357

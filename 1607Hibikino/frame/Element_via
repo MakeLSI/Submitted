@@ -1,0 +1,9 @@
+; structure creation     : 9/6/114 (8:0:25)
+; structure modification : 1/1/70 (9:0:0)
+; structure name : Element_via
+L 12
+B 0 0 8 8
+L 13
+B 2 2 6 6
+L 14
+B 0 0 8 8

@@ -1,0 +1,17 @@
+h -45 -11 182 121
+l 12
+b 102 43 10 6
+b 80 43 10 6
+b 58 43 10 6
+b 36 43 10 6
+b 14 43 11 6
+b -8 43 10 6
+l 14
+w 6 -19 47 0 13 143 0 0 -27
+c 107 -11 1 1 0 mori_inv1_v2.gex
+c 85 -11 1 1 0 mori_inv1_v2.gex
+c 63 -11 1 1 0 mori_inv1_v2.gex
+c 41 -11 1 1 0 mori_inv1_v2.gex
+c 19 -11 1 1 0 mori_inv1_v2.gex
+c -3 -11 1 1 0 mori_inv1_v2.gex
+c -37 -11 1 1 0 mori_nand2_v2.gex

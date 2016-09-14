@@ -1,0 +1,14 @@
+; structure creation     : 4/6/24 (11:7:33)
+; structure modification : 4/7/16 (5:18:43)
+; structure name : M2_M1
+L 12
+B -4 -4 4 4
+B -4 -4 4 4
+L 13
+B -2 -2 2 2
+B -2 -2 2 2
+L 14
+B -4 -4 4 4
+B -4 -4 4 4
+l 5
+l 6

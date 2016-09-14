@@ -1,0 +1,28 @@
+h -55 -11 257 121
+l 12
+b 148 16 46 6
+b 148 16 6 78
+b 121 88 33 6
+b -8 43 10 6
+b 16 43 11 6
+b 40 43 10 6
+b 64 43 10 6
+b 88 43 10 6
+b 112 43 10 6
+t -33 31 8 0 OUT
+t 191 93 8 0 SW
+t -46 -5 8 0 Gnd
+t -43 106 8 0 Vdd
+l 14
+b -22 47 6 13
+b 135 30 8 30
+b -20 54 163 6
+b -43 43 26 6
+c -47 -11 1 1 0 mori_inv1_v2.gex
+c -25 -11 1 1 0 mori_inv1L4.gex
+c -1 -11 1 1 0 mori_inv1L4.gex
+c 23 -11 1 1 0 mori_inv1L4.gex
+c 47 -11 1 1 0 mori_inv1L4.gex
+c 71 -11 1 1 0 mori_inv1L4.gex
+c 95 -11 1 1 0 mori_inv1L4.gex
+c 119 -11 1 1 0 mori_inv1L4_psw.gex

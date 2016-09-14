@@ -1,0 +1,340 @@
+h 18 -24 395 311
+h 18 -24 395 311
+l 12
+l 12
+b 130 202 18 8
+b 130 202 18 8
+b 140 202 8 25
+b 140 202 8 25
+b 212 202 30 8
+b 212 202 30 8
+b 300 166 100 14
+b 300 166 100 14
+b 400 85 13 95
+b 400 85 13 95
+b 280 166 20 109
+b 280 166 20 109
+b 265 275 35 12
+b 265 275 35 12
+b 46 152 139 6
+b 46 152 139 6
+b 196 152 171 6
+b 196 152 171 6
+b 111 128 270 6
+b 111 128 270 6
+b 65 116 291 6
+b 65 116 291 6
+b 60 139 239 6
+b 60 139 239 6
+b 105 219 16 6
+b 105 219 16 6
+b 19 166 24 12
+b 19 166 24 12
+b 160 166 67 12
+b 160 166 67 12
+b 70 166 46 12
+b 70 166 46 12
+b 26 275 239 12
+b 26 275 239 12
+b 111 104 279 6
+b 111 104 279 6
+b 19 -24 12 202
+b 19 -24 12 202
+b 19 -24 24 12
+b 19 -24 24 12
+b 105 219 6 37
+b 105 219 6 37
+t 120 128 10 0 Y-
+t 120 128 10 0 Y-
+t 30 285 10 0 Vdd
+t 30 285 10 0 Vdd
+t 31 222 10 0 X
+t 31 222 10 0 X
+t 46 153 10 0 X+
+t 46 153 10 0 X+
+t 61 142 10 0 Y+
+t 61 142 10 0 Y+
+t 67 119 10 0 Z+
+t 67 119 10 0 Z+
+t 116 106 10 0 Z-
+t 116 106 10 0 Z-
+t 21 -21 10 0 Gnd
+t 21 -21 10 0 Gnd
+t 222 222 10 0 Z
+t 222 222 10 0 Z
+l 14
+l 14
+b 140 202 8 25
+b 140 202 8 25
+b 130 202 18 8
+b 130 202 18 8
+b 212 202 31 8
+b 212 202 31 8
+b 92 231 108 7
+b 92 231 108 7
+b 192 151 8 87
+b 192 151 8 87
+b 178 30 7 129
+b 178 30 7 129
+b 160 139 8 63
+b 160 139 8 63
+b 387 29 6 81
+b 387 29 6 81
+b 375 29 6 105
+b 375 29 6 105
+b 361 29 6 129
+b 361 29 6 129
+b 341 29 6 93
+b 341 29 6 93
+b 328 29 6 105
+b 328 29 6 105
+b 329 29 6 105
+b 329 29 6 105
+b 316 32 6 126
+b 316 32 6 126
+b 295 29 6 81
+b 295 29 6 81
+b 283 29 6 116
+b 283 29 6 116
+b 258 115 6 87
+b 258 115 6 87
+b 269 29 7 129
+b 269 29 7 129
+b 212 111 6 91
+b 212 111 6 91
+b 248 31 6 91
+b 248 31 6 91
+b 237 30 6 115
+b 237 30 6 115
+b 225 30 6 128
+b 225 30 6 128
+b 203 29 6 81
+b 203 29 6 81
+b 191 29 6 105
+b 191 29 6 105
+b 236 219 14 6
+b 236 219 14 6
+b 236 203 6 22
+b 236 203 6 22
+b 41 219 13 6
+b 41 219 13 6
+b 41 204 6 21
+b 41 204 6 21
+b 55 219 44 6
+b 55 219 44 6
+b 70 202 22 8
+b 70 202 22 8
+b 84 152 8 50
+b 84 152 8 50
+b 39 29 6 129
+b 39 29 6 129
+b 85 29 7 129
+b 85 29 7 129
+b 131 29 8 129
+b 131 29 8 129
+b 53 37 6 102
+b 53 37 6 102
+b 65 37 6 85
+b 65 37 6 85
+b 111 37 6 73
+b 111 37 6 73
+b 92 219 8 19
+b 92 219 8 19
+b 98 202 32 8
+b 98 202 32 8
+b 144 37 6 97
+b 144 37 6 97
+b 157 37 6 85
+b 157 37 6 85
+b 98 152 7 58
+b 98 152 7 58
+b 98 37 7 110
+b 98 37 7 110
+b 98 152 20 8
+b 98 152 20 8
+b 110 127 8 25
+b 110 127 8 25
+b 210 219 6 51
+b 210 219 6 51
+b 104 250 8 21
+b 104 250 8 21
+t 306 19 10 0 F
+t 306 19 10 0 F
+t 352 19 10 0 G
+t 352 19 10 0 G
+t 400 18 10 0 H
+t 400 18 10 0 H
+t 76 18 10 0 A
+t 76 18 10 0 A
+t 122 19 10 0 B
+t 122 19 10 0 B
+t 169 19 10 0 C
+t 169 19 10 0 C
+t 215 19 10 0 D
+t 215 19 10 0 D
+t 261 19 10 0 E
+t 261 19 10 0 E
+t 105 257 8 0 Y
+t 105 257 8 0 Y
+c 144 206 1 1 0 mori_m1m2_via.gex
+c 144 206 1 1 0 mori_m1m2_via.gex
+c 54 231 1 1 0 mori_m1m2_via.gex
+c 54 231 1 1 0 mori_m1m2_via.gex
+c 249 231 1 1 0 mori_m1m2_via.gex
+c 249 231 1 1 0 mori_m1m2_via.gex
+c 216 206 1 1 0 mori_m1m2_via.gex
+c 216 206 1 1 0 mori_m1m2_via.gex
+c 123 107 1 1 0 mori_m1m2_via.gex
+c 123 107 1 1 0 mori_m1m2_via.gex
+c 122 131 1 1 0 mori_m1m2_via.gex
+c 122 131 1 1 0 mori_m1m2_via.gex
+c 168 118 1 1 0 mori_m1m2_via.gex
+c 168 118 1 1 0 mori_m1m2_via.gex
+c 176 155 1 1 0 mori_m1m2_via.gex
+c 176 155 1 1 0 mori_m1m2_via.gex
+c 127 155 1 1 0 mori_m1m2_via.gex
+c 127 155 1 1 0 mori_m1m2_via.gex
+c 390 115 1 1 0 mori_m1m2_via.gex
+c 390 115 1 1 0 mori_m1m2_via.gex
+c 328 155 1 1 0 mori_m1m2_via.gex
+c 328 155 1 1 0 mori_m1m2_via.gex
+c 237 156 1 1 0 mori_m1m2_via.gex
+c 237 156 1 1 0 mori_m1m2_via.gex
+c 196 155 1 1 0 mori_m1m2_via.gex
+c 196 155 1 1 0 mori_m1m2_via.gex
+c 204 155 1 1 0 mori_m1m2_via.gex
+c 204 155 1 1 0 mori_m1m2_via.gex
+c 281 156 1 1 0 mori_m1m2_via.gex
+c 281 156 1 1 0 mori_m1m2_via.gex
+c 221 -24 1 1 0 mori_nand3_v2.gex
+c 221 -24 1 1 0 mori_nand3_v2.gex
+c 184 155 1 1 0 mori_m1m2_via.gex
+c 184 155 1 1 0 mori_m1m2_via.gex
+c 156 143 1 1 0 mori_m1m2_via.gex
+c 156 143 1 1 0 mori_m1m2_via.gex
+c 164 143 1 1 0 mori_m1m2_via.gex
+c 164 143 1 1 0 mori_m1m2_via.gex
+c 378 123 1 1 0 mori_m1m2_via.gex
+c 378 123 1 1 0 mori_m1m2_via.gex
+c 390 107 1 1 0 mori_m1m2_via.gex
+c 390 107 1 1 0 mori_m1m2_via.gex
+c 378 131 1 1 0 mori_m1m2_via.gex
+c 378 131 1 1 0 mori_m1m2_via.gex
+c 355 155 1 1 0 mori_m1m2_via.gex
+c 355 155 1 1 0 mori_m1m2_via.gex
+c 363 155 1 1 0 mori_m1m2_via.gex
+c 363 155 1 1 0 mori_m1m2_via.gex
+c 344 118 1 1 0 mori_m1m2_via.gex
+c 344 118 1 1 0 mori_m1m2_via.gex
+c 352 118 1 1 0 mori_m1m2_via.gex
+c 352 118 1 1 0 mori_m1m2_via.gex
+c 332 131 1 1 0 mori_m1m2_via.gex
+c 332 131 1 1 0 mori_m1m2_via.gex
+c 340 131 1 1 0 mori_m1m2_via.gex
+c 340 131 1 1 0 mori_m1m2_via.gex
+c 320 155 1 1 0 mori_m1m2_via.gex
+c 320 155 1 1 0 mori_m1m2_via.gex
+c 307 107 1 1 0 mori_m1m2_via.gex
+c 307 107 1 1 0 mori_m1m2_via.gex
+c 299 107 1 1 0 mori_m1m2_via.gex
+c 299 107 1 1 0 mori_m1m2_via.gex
+c 295 142 1 1 0 mori_m1m2_via.gex
+c 295 142 1 1 0 mori_m1m2_via.gex
+c 287 142 1 1 0 mori_m1m2_via.gex
+c 287 142 1 1 0 mori_m1m2_via.gex
+c 273 156 1 1 0 mori_m1m2_via.gex
+c 273 156 1 1 0 mori_m1m2_via.gex
+c 269 206 1 1 0 mori_m1m2_via.gex
+c 269 206 1 1 0 mori_m1m2_via.gex
+c 164 206 1 1 0 mori_m1m2_via.gex
+c 164 206 1 1 0 mori_m1m2_via.gex
+c 229 156 1 1 0 mori_m1m2_via.gex
+c 229 156 1 1 0 mori_m1m2_via.gex
+c 260 119 1 1 0 mori_m1m2_via.gex
+c 260 119 1 1 0 mori_m1m2_via.gex
+c 252 119 1 1 0 mori_m1m2_via.gex
+c 252 119 1 1 0 mori_m1m2_via.gex
+c 249 142 1 1 0 mori_m1m2_via.gex
+c 249 142 1 1 0 mori_m1m2_via.gex
+c 241 142 1 1 0 mori_m1m2_via.gex
+c 241 142 1 1 0 mori_m1m2_via.gex
+c 206 107 1 1 0 mori_m1m2_via.gex
+c 206 107 1 1 0 mori_m1m2_via.gex
+c 214 107 1 1 0 mori_m1m2_via.gex
+c 214 107 1 1 0 mori_m1m2_via.gex
+c 195 131 1 1 0 mori_m1m2_via.gex
+c 195 131 1 1 0 mori_m1m2_via.gex
+c 203 131 1 1 0 mori_m1m2_via.gex
+c 203 131 1 1 0 mori_m1m2_via.gex
+c 243 166 1 1 0 mori_inv1_v2.gex
+c 243 166 1 1 0 mori_inv1_v2.gex
+c 221 166 1 1 0 mori_inv1_v2.gex
+c 221 166 1 1 0 mori_inv1_v2.gex
+c 48 166 1 1 0 mori_inv1_v2.gex
+c 48 166 1 1 0 mori_inv1_v2.gex
+c 26 166 1 1 0 mori_inv1_v2.gex
+c 26 166 1 1 0 mori_inv1_v2.gex
+c 138 166 1 1 0 mori_inv1_v2.gex
+c 138 166 1 1 0 mori_inv1_v2.gex
+c 116 166 1 1 0 mori_inv1_v2.gex
+c 116 166 1 1 0 mori_inv1_v2.gex
+c 129 -24 1 1 0 mori_nand3_v2.gex
+c 129 -24 1 1 0 mori_nand3_v2.gex
+c 83 -24 1 1 0 mori_nand3_v2.gex
+c 83 -24 1 1 0 mori_nand3_v2.gex
+c 37 -24 1 1 0 mori_nand3_v2.gex
+c 37 -24 1 1 0 mori_nand3_v2.gex
+c 175 -24 1 1 0 mori_nand3_v2.gex
+c 175 -24 1 1 0 mori_nand3_v2.gex
+c 267 -24 1 1 0 mori_nand3_v2.gex
+c 267 -24 1 1 0 mori_nand3_v2.gex
+c 313 -24 1 1 0 mori_nand3_v2.gex
+c 313 -24 1 1 0 mori_nand3_v2.gex
+c 359 -24 1 1 0 mori_nand3_v2.gex
+c 359 -24 1 1 0 mori_nand3_v2.gex
+c 88 156 1 1 0 mori_m1m2_via.gex
+c 88 156 1 1 0 mori_m1m2_via.gex
+c 42 155 1 1 0 mori_m1m2_via.gex
+c 42 155 1 1 0 mori_m1m2_via.gex
+c 135 155 1 1 0 mori_m1m2_via.gex
+c 135 155 1 1 0 mori_m1m2_via.gex
+c 56 143 1 1 0 mori_m1m2_via.gex
+c 56 143 1 1 0 mori_m1m2_via.gex
+c 69 119 1 1 0 mori_m1m2_via.gex
+c 69 119 1 1 0 mori_m1m2_via.gex
+c 115 107 1 1 0 mori_m1m2_via.gex
+c 115 107 1 1 0 mori_m1m2_via.gex
+c 42 147 1 1 0 mori_m1m2_via.gex
+c 42 147 1 1 0 mori_m1m2_via.gex
+c 56 135 1 1 0 mori_m1m2_via.gex
+c 56 135 1 1 0 mori_m1m2_via.gex
+c 69 111 1 1 0 mori_m1m2_via.gex
+c 69 111 1 1 0 mori_m1m2_via.gex
+c 80 156 1 1 0 mori_m1m2_via.gex
+c 80 156 1 1 0 mori_m1m2_via.gex
+c 148 131 1 1 0 mori_m1m2_via.gex
+c 148 131 1 1 0 mori_m1m2_via.gex
+c 156 131 1 1 0 mori_m1m2_via.gex
+c 156 131 1 1 0 mori_m1m2_via.gex
+c 160 118 1 1 0 mori_m1m2_via.gex
+c 160 118 1 1 0 mori_m1m2_via.gex
+c 114 131 1 1 0 mori_m1m2_via.gex
+c 114 131 1 1 0 mori_m1m2_via.gex
+c 101 143 1 1 0 mori_m1m2_via.gex
+c 101 143 1 1 0 mori_m1m2_via.gex
+c 101 135 1 1 0 mori_m1m2_via.gex
+c 101 135 1 1 0 mori_m1m2_via.gex
+c 74 206 1 1 0 mori_m1m2_via.gex
+c 74 206 1 1 0 mori_m1m2_via.gex
+c 114 223 1 1 0 mori_m1m2_via.gex
+c 114 223 1 1 0 mori_m1m2_via.gex
+c 108 246 1 1 0 mori_m1m2_via.gex
+c 108 246 1 1 0 mori_m1m2_via.gex
+c 108 254 1 1 0 mori_m1m2_via.gex
+c 108 254 1 1 0 mori_m1m2_via.gex
+c 24 223 1 1 0 mori_m1m2_via.gex
+c 24 223 1 1 0 mori_m1m2_via.gex
+c 219 223 1 1 0 mori_m1m2_via.gex
+c 219 223 1 1 0 mori_m1m2_via.gex
+l 5
+l 6

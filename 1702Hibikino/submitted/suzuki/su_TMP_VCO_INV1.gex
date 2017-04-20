@@ -1,0 +1,49 @@
+h 20 -48 26 144
+l 0
+l 1
+b 20 46 26 34
+l 2
+b 20 -32 26 16
+l 3
+b 22 -34 22 14
+b 22 62 22 20
+l 7
+b 32 -3 2 24
+b 31 -1 3 6
+l 12
+b 35 -5 6 28
+b 25 -37 6 26
+b 25 41 6 44
+c 35 -11 1 1 0 su_AC_M1.gex
+c 25 -11 1 1 0 su_AC_M1.gex
+c 35 23 1 1 0 su_AC_M1.gex
+c 35 29 1 1 0 su_AC_M1.gex
+c 35 35 1 1 0 su_AC_M1.gex
+c 25 23 1 1 0 su_AC_M1.gex
+c 25 29 1 1 0 su_AC_M1.gex
+c 25 35 1 1 0 su_AC_M1.gex
+c 45 -47 1 1 0 su_PAC_M1.gex
+c 40 -47 1 1 0 su_PAC_M1.gex
+c 19 -16 1 1 0 su_NMOS_CELL.gex
+c 35 -47 1 1 0 su_PAC_M1.gex
+c 45 81 1 1 0 su_NAC_M1.gex
+c 40 81 1 1 0 su_NAC_M1.gex
+c 35 81 1 1 0 su_NAC_M1.gex
+c 19 30 1 1 0 su_PMOS_CELL.gex
+c 19 24 1 1 0 su_PMOS_CELL.gex
+c 19 18 1 1 0 su_PMOS_CELL.gex
+c 25 -1 1 1 0 su_P_M1.gex
+c 35 41 1 1 0 su_AC_M1.gex
+c 35 47 1 1 0 su_AC_M1.gex
+c 35 53 1 1 0 su_AC_M1.gex
+c 25 41 1 1 0 su_AC_M1.gex
+c 25 47 1 1 0 su_AC_M1.gex
+c 25 53 1 1 0 su_AC_M1.gex
+c 19 48 1 1 0 su_PMOS_CELL.gex
+c 19 42 1 1 0 su_PMOS_CELL.gex
+c 19 36 1 1 0 su_PMOS_CELL.gex
+c 35 -17 1 1 0 su_AC_M1.gex
+c 25 -17 1 1 0 su_AC_M1.gex
+c 19 -22 1 1 0 su_NMOS_CELL.gex
+l 5
+l 6

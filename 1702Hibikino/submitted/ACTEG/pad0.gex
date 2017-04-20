@@ -1,0 +1,9 @@
+; structure creation     : 13/4/2015 (21:46:44)
+; structure modification : 13/4/2015 (21:46:44)
+; structure name : pad0.gex
+L 14
+B -50 -50 50 50
+L 15
+B -45 -45 45 45
+l 5
+l 6

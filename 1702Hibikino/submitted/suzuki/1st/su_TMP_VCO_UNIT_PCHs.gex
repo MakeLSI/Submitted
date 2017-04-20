@@ -1,0 +1,9 @@
+h 0 0 26 78
+l 1
+b 0 42 26 4
+l 12
+b 5 37 6 14
+b 0 67 26 6
+l 14
+c 0 0 1 1 0 su_TMP_VCO_UNIT_PCH0.gex
+c 0 39 1 1 0 su_TMP_VCO_UNIT_PCH1.gex

@@ -1,0 +1,10 @@
+; structure creation     : 65407/1012/36894 (0:20696:13825)
+; structure modification : 65407/1012/36894 (0:20696:13825)
+; structure name : pad_line
+C 160 390 1 1 2 pck_sp
+C 320 390 1 1 2 pi_sp
+C 480 390 1 1 2 pi_sp
+C 640 390 1 1 2 pi_sp
+C 960 390 1 1 2 po_sp
+C 1280 390 1 1 2 pvddck2_sp
+C 0 390 1 1 2 pvssck2_sp

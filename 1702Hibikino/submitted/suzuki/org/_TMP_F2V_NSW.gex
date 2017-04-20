@@ -1,0 +1,65 @@
+h -5 -146 36 177
+l 7
+b 7 -146 2 8
+b 0 -146 7 6
+l 12
+b 16 -106 4 132
+c 10 -136 1 5 0 AC_M1.gex
+c 0 -136 1 5 0 AC_M1.gex
+c 30 -116 1 1 0 PAC_M1.gex
+c -6 -117 1 1 0 NMOS_CELL.gex
+c 30 -122 1 1 0 PAC_M1.gex
+c -6 -123 1 1 0 NMOS_CELL.gex
+c 30 -128 1 1 0 PAC_M1.gex
+c -6 -129 1 1 0 NMOS_CELL.gex
+c 30 -134 1 1 0 PAC_M1.gex
+c -6 -135 1 1 0 NMOS_CELL.gex
+c 30 -140 1 1 0 PAC_M1.gex
+c -6 -141 1 1 0 NMOS_CELL.gex
+c 0 -146 1 1 0 P_M1.gex
+c 30 -110 1 1 0 PAC_M1.gex
+c -6 -111 1 1 0 NMOS_CELL.gex
+c 30 -104 1 1 0 PAC_M1.gex
+c 30 -98 1 1 0 PAC_M1.gex
+c 30 -92 1 1 0 PAC_M1.gex
+c 30 -86 1 1 0 PAC_M1.gex
+c 30 -80 1 1 0 PAC_M1.gex
+c 30 -74 1 1 0 PAC_M1.gex
+c 30 -68 1 1 0 PAC_M1.gex
+c 30 -62 1 1 0 PAC_M1.gex
+c 30 -56 1 1 0 PAC_M1.gex
+c 30 -50 1 1 0 PAC_M1.gex
+c 30 -44 1 1 0 PAC_M1.gex
+c 30 -38 1 1 0 PAC_M1.gex
+c 30 -32 1 1 0 PAC_M1.gex
+c 30 -26 1 1 0 PAC_M1.gex
+c 30 -20 1 1 0 PAC_M1.gex
+c 30 -14 1 1 0 PAC_M1.gex
+c 30 -8 1 1 0 PAC_M1.gex
+c 30 -2 1 1 0 PAC_M1.gex
+c 30 4 1 1 0 PAC_M1.gex
+c 30 10 1 1 0 PAC_M1.gex
+c 30 16 1 1 0 PAC_M1.gex
+c 10 -106 1 22 0 AC_M1.gex
+c 0 -106 1 22 0 AC_M1.gex
+c -6 -105 1 1 0 NMOS_CELL.gex
+c -6 -99 1 1 0 NMOS_CELL.gex
+c -6 -93 1 1 0 NMOS_CELL.gex
+c -6 -87 1 1 0 NMOS_CELL.gex
+c -6 -81 1 1 0 NMOS_CELL.gex
+c -6 -75 1 1 0 NMOS_CELL.gex
+c -6 -69 1 1 0 NMOS_CELL.gex
+c -6 -63 1 1 0 NMOS_CELL.gex
+c -6 -57 1 1 0 NMOS_CELL.gex
+c -6 -51 1 1 0 NMOS_CELL.gex
+c -6 -45 1 1 0 NMOS_CELL.gex
+c -6 -39 1 1 0 NMOS_CELL.gex
+c -6 -33 1 1 0 NMOS_CELL.gex
+c -6 -27 1 1 0 NMOS_CELL.gex
+c -6 -21 1 1 0 NMOS_CELL.gex
+c -6 -15 1 1 0 NMOS_CELL.gex
+c -6 -9 1 1 0 NMOS_CELL.gex
+c -6 -3 1 1 0 NMOS_CELL.gex
+c -6 3 1 1 0 NMOS_CELL.gex
+c -6 9 1 1 0 NMOS_CELL.gex
+c -6 15 1 1 0 NMOS_CELL.gex

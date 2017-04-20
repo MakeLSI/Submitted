@@ -1,0 +1,7 @@
+h 0 0 785 800
+l 0
+t 500 0 50 0 POLY-Metal
+l 12
+b 553 600 8 25
+c 0 0 1 1 0 ACPAD_OPEN.gex
+c 350 200 1 1 0 cap_poly_M.gex

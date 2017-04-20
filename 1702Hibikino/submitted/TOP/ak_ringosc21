@@ -1,0 +1,18 @@
+; structure creation     : 8/2/17 (7:3:56)
+; structure modification : 18/2/17 (5:1:8)
+; structure name : ringosc21
+L 12
+; [strans] magnification(x 5) not supported
+B 276 -121 310 -109
+B 276 109 295 121
+B 295 -109 310 121
+B 276 36 283 44
+B 274 -61 283 -53
+B -8 53 2 61
+B -16 -61 -8 61
+B -8 -61 25 -53
+B 283 -61 291 44
+; [strans] magnification(x 5) not supported
+C 0 0 1 1 0 ak_inv10
+C 276 0 1 1 2 ak_inv10
+C 254 0 1 1 0 ak_inv1

@@ -1,0 +1,168 @@
+; structure creation     : 17/2/17 (22:1:21)
+; structure modification : 18/2/17 (4:49:21)
+; structure name : rsff
+L 1
+B 37 69 87 120
+B -8 69 42 120
+L 2
+B 37 1 87 42
+B -8 1 42 42
+L 3
+B 39 3 85 40
+B -6 3 40 40
+B -6 71 40 118
+B 39 71 85 118
+L 4
+B 47 6 77 12
+B 47 75 77 93
+B 2 6 32 12
+B 2 26 32 32
+B 2 75 32 93
+B 2 109 32 115
+B 47 109 77 115
+B 47 26 77 32
+L 5
+B 0 24 34 34
+B 45 24 79 34
+L 6
+B 45 73 79 95
+B 0 73 34 95
+L 7
+B 55 23 57 96
+B 49 48 55 54
+B 10 23 12 96
+B 22 23 24 96
+B 4 48 10 54
+B 16 48 22 54
+B 61 48 67 54
+B 67 23 69 96
+L 8
+B 45 24 79 34
+B 0 24 34 34
+B 0 107 34 117
+B 45 107 79 117
+L 9
+B 45 4 79 14
+B 0 4 34 14
+B 0 73 34 95
+B 45 73 79 95
+L 10
+B 61 28 63 30
+B 57 8 59 10
+B 61 8 63 10
+B 49 85 51 87
+B 49 77 51 79
+B 73 28 75 30
+B 73 89 75 91
+B 73 81 75 83
+B 65 8 67 10
+B 57 111 59 113
+B 61 111 63 113
+B 61 111 63 113
+B 73 111 75 113
+B 28 111 30 113
+B 20 111 22 113
+B 24 111 26 113
+B 4 111 6 113
+B 16 111 18 113
+B 8 111 10 113
+B 12 111 14 113
+B 28 8 30 10
+B 20 8 22 10
+B 24 8 26 10
+B 28 81 30 83
+B 28 77 30 79
+B 28 89 30 91
+B 28 85 30 87
+B 28 28 30 30
+B 4 81 6 83
+B 4 77 6 79
+B 4 89 6 91
+B 4 85 6 87
+B 4 8 6 10
+B 16 8 18 10
+B 8 8 10 10
+B 12 8 14 10
+B 4 28 6 30
+B 16 28 18 30
+B 65 111 67 113
+B 49 111 51 113
+B 53 111 55 113
+B 73 8 75 10
+B 69 8 71 10
+B 73 77 75 79
+B 73 85 75 87
+B 49 81 51 83
+B 49 89 51 91
+B 49 8 51 10
+B 53 8 55 10
+B 49 28 51 30
+L 11
+B 51 50 53 52
+B 6 50 8 52
+B 18 50 20 52
+B 63 50 65 52
+L 12
+; [strans] magnification(x 4) not supported
+; [strans] magnification(x 4) not supported
+; [strans] magnification(x 4) not supported
+B 32 53 47 61
+B 33 109 45 121
+; [strans] magnification(x 4) not supported
+; [strans] magnification(x 4) not supported
+; [strans] magnification(x 4) not supported
+B 59 53 67 61
+B 61 48 67 54
+B 71 36 77 93
+B 59 26 65 36
+B 47 12 53 32
+B 47 75 53 109
+; [strans] magnification(x 4) not supported
+; [strans] magnification(x 4) not supported
+; [strans] magnification(x 4) not supported
+; [strans] magnification(x 4) not supported
+; [strans] magnification(x 4) not supported
+B 2 53 10 61
+B 14 53 22 61
+B 4 48 10 54
+B 16 48 22 54
+B 26 36 34 44
+B 26 36 32 93
+B 14 36 26 42
+B 14 26 20 36
+B 26 12 32 32
+B 2 12 8 32
+B 0 0 34 12
+B 2 75 8 109
+B 0 109 34 121
+B 45 109 79 121
+B 45 0 79 12
+B 71 12 77 32
+B 59 36 71 42
+B 71 36 79 44
+B 49 48 55 54
+B 47 53 55 61
+; [strans] magnification(x 4) not supported
+; [strans] magnification(x 4) not supported
+B 34 0 45 11
+; [strans] magnification(x 4) not supported
+; [strans] magnification(x 4) not supported
+L 13
+B 49 55 53 59
+B 73 38 77 42
+B 28 38 32 42
+B 16 55 20 59
+B 4 55 8 59
+B 61 55 65 59
+L 14
+B 29 66 80 74
+B 78 36 84 74
+B 47 53 55 61
+B 71 36 79 44
+B 26 36 34 44
+B 14 53 22 61
+B 2 53 10 61
+B 59 53 67 61
+B 22 53 31 61
+B 24 60 31 74
+; [strans] magnification(x 5) not supported

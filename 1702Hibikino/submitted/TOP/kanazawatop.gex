@@ -1,0 +1,231 @@
+h -2813 -2813 5626 5626
+l 5
+b -645 208 418 404
+b 260 208 410 404
+b 255 -692 418 404
+b -1681 2033 78 64
+b -890 2043 30 64
+b -156 2033 34 64
+b -2111 826 90 78
+b -2111 -1388 80 78
+b 1155 208 418 404
+b 1160 -692 408 404
+l 6
+b -645 -692 418 404
+b 2493 1316 56 70
+b 1327 2041 22 56
+b 585 2041 26 56
+b -2111 90 82 72
+b -2111 -647 72 70
+b -1543 -692 410 404
+b -1545 -1592 418 404
+b -643 -1592 404 404
+b 2055 -1592 418 404
+l 12
+b 2474 1326 10 674
+b -1990 2000 4474 10
+b 2542 165 71 11
+b 2532 165 10 515
+b 2200 680 342 10
+b 2200 690 10 66
+b 2210 746 31 10
+b 2552 450 61 8
+b 2552 458 10 272
+b 2580 690 33 10
+b 2580 700 10 60
+b 2539 760 51 33
+b 2552 823 61 14
+b 2309 795 50 14
+b 2309 716 50 14
+b 2584 1194 29 6
+b 2584 1200 6 125
+b 2546 1319 38 6
+b 2584 1514 29 6
+b 2584 1400 6 114
+b 2547 1394 43 6
+b 2546 1377 67 6
+b -2156 -780 6 125
+b -2150 -661 57 6
+b -2181 -644 77 6
+b -2156 -586 6 179
+b -2150 -586 46 6
+b -2156 -42 6 124
+b -2150 76 67 6
+b -2181 93 77 6
+b -2150 812 67 6
+b -2181 -407 31 6
+b -2181 -786 31 6
+b -2150 153 46 6
+b -2156 153 6 178
+b -2181 331 31 6
+b -2181 -48 31 6
+b -2150 891 46 6
+b -2181 833 77 6
+b -2156 891 6 178
+b -2181 1069 31 6
+b -2181 690 31 6
+b -2156 696 6 122
+b -2150 -1323 46 6
+b -2181 -1381 77 6
+b -2150 -1402 57 6
+b -2156 -1323 6 178
+b -2181 -1145 31 6
+b -2181 -1524 31 6
+b -2156 -1518 6 122
+b -1813 2140 124 6
+b -1813 2146 6 35
+b -1695 2095 6 45
+b -1616 2140 144 6
+b -1478 2146 6 35
+b -1616 2090 6 50
+b -1674 2090 6 91
+b -1075 2146 6 35
+b -740 2146 6 35
+b -337 2146 6 35
+b -2 2146 6 35
+b 401 2146 6 35
+b 736 2146 6 35
+b 1139 2146 6 35
+b -873 2090 6 50
+b -873 2140 139 6
+b -904 2095 6 45
+b -1075 2140 177 6
+b -883 2100 6 81
+b -135 2090 6 50
+b -135 2140 139 6
+b -149 2090 6 91
+b -170 2095 6 45
+b -337 2140 173 6
+b 602 2090 6 50
+b 602 2140 140 6
+b 588 2090 6 91
+b 571 2095 6 45
+b 401 2140 176 6
+b 1340 2091 6 50
+b 1330 2090 6 91
+b 1313 2095 6 45
+b 1139 2140 180 6
+b 2568 -155 45 6
+b 2568 -305 45 6
+b 2580 -458 33 6
+b 2580 -608 33 6
+b 2579 -687 34 6
+b 2579 -837 34 6
+b 2573 -940 40 6
+b 2573 -1090 40 6
+b 1522 2146 6 35
+b 1340 2140 188 6
+b -2022 -1330 22 6
+b -2030 -593 30 6
+b -2021 145 21 6
+b -2012 884 12 6
+b -1623 2010 6 14
+b -2000 -1330 10 3340
+b 1335 2010 6 22
+b 595 2010 6 22
+b -142 2010 6 14
+b -878 2010 6 24
+b -2181 1290 181 11
+l 31
+t 2713 1888 200 0 VSS
+t 1888 2713 200 0 VDD
+t -1890 -2713 200 0 VDD
+t -2713 -1873 200 0 VSS
+c 173 1940 1 1 0 logo.gex
+c 2304 804 1 1 2 esd0.gex
+c 2364 735 1 1 0 esd.gex
+c -1600 2100 1 1 2 nch15x15.gex
+c -862 2100 1 1 2 nch0_6x15.gex
+c -124 2100 1 1 2 nch1_8x15.gex
+c 614 2100 1 1 2 pch1_8x15.gex
+c 1352 2100 1 1 2 pch0_6x15.gex
+c -1945 2813 1 1 4 pad3512b_kanazawa_1I_nonESD
+c 2813 -1499 1 1 5 pad3512b_kanazawa_wo_esd
+c 2813 -1253 1 1 5 pad3512b_kanazawa_wo_esd
+c 2813 -1007 1 1 5 pad3512b_kanazawa_wo_esd
+c 2813 1699 1 1 5 pad3512b_kanazawa_wo_esd
+c 2813 1453 1 1 5 pad3512b_kanazawa_wo_esd
+c 2813 1207 1 1 5 pad3512b_kanazawa_wo_esd
+c 2813 961 1 1 5 pad3512b_kanazawa_wo_esd
+c 2813 715 1 1 5 pad3512b_kanazawa_wo_esd
+c 2813 469 1 1 5 pad3512b_kanazawa_wo_esd
+c 2813 223 1 1 5 pad3512b_kanazawa_wo_esd
+c 2813 -23 1 1 5 pad3512b_kanazawa_wo_esd
+c 2813 -269 1 1 5 pad3512b_kanazawa_wo_esd
+c 2813 -515 1 1 5 pad3512b_kanazawa_wo_esd
+c 2813 -761 1 1 5 pad3512b_kanazawa_wo_esd
+c 1499 2813 1 1 4 pad3512b_kanazawa_nonESD
+c 1253 2813 1 1 4 pad3512b_kanazawa_1I_nonESD
+c 1007 2813 1 1 4 pad3512b_kanazawa_1I_nonESD
+c -1699 2813 1 1 4 pad3512b_kanazawa_1I_nonESD
+c -1453 2813 1 1 4 pad3512b_kanazawa_1I_nonESD
+c -1207 2813 1 1 4 pad3512b_kanazawa_1I_nonESD
+c -961 2813 1 1 4 pad3512b_kanazawa_1I_nonESD
+c -715 2813 1 1 4 pad3512b_kanazawa_1I_nonESD
+c -469 2813 1 1 4 pad3512b_kanazawa_1I_nonESD
+c -223 2813 1 1 4 pad3512b_kanazawa_1I_nonESD
+c 23 2813 1 1 4 pad3512b_kanazawa_1I_nonESD
+c 269 2813 1 1 4 pad3512b_kanazawa_1I_nonESD
+c 515 2813 1 1 4 pad3512b_kanazawa_1I_nonESD
+c 761 2813 1 1 4 pad3512b_kanazawa_1I_nonESD
+c 1788 2813 1 1 4 PAD60_kanazawa
+c -2813 -1988 1 1 0 PAD60_kanazawa
+c -2813 -1499 1 1 3 pad3512b_kanazawa_nonESD
+c -2813 -1253 1 1 3 pad3512b_kanazawa_nonESD
+c -2813 -1007 1 1 3 pad3512b_kanazawa_nonESD
+c -2813 1699 1 1 3 pad3512b_kanazawa_nonESD
+c -2813 -761 1 1 3 pad3512b_kanazawa_nonESD
+c -2813 -515 1 1 3 pad3512b_kanazawa_nonESD
+c -2813 -269 1 1 3 pad3512b_kanazawa_nonESD
+c -2813 -23 1 1 3 pad3512b_kanazawa_nonESD
+c -2813 223 1 1 3 pad3512b_kanazawa_nonESD
+c -2813 469 1 1 3 pad3512b_kanazawa_nonESD
+c -2813 715 1 1 3 pad3512b_kanazawa_nonESD
+c -2813 961 1 1 3 pad3512b_kanazawa_nonESD
+c -2813 1207 1 1 3 pad3512b_kanazawa_nonESD
+c -2813 1453 1 1 3 pad3512b_kanazawa
+c -2813 1945 1 1 3 pad3512b_kanazawa_1I
+c 2813 -1745 1 1 5 pad3512b_kanazawa_wo_esd
+c 2613 1788 1 1 0 PAD60_kanazawa
+c -1988 -2813 1 1 0 PAD60_kanazawa
+c 1745 -2813 1 1 0 pad3512b_kanazawa_2I
+c 1499 -2813 1 1 0 pad3512b_kanazawa
+c 1253 -2813 1 1 0 pad3512b_kanazawa
+c 1007 -2813 1 1 0 pad3512b_kanazawa
+c 761 -2813 1 1 0 pad3512b_kanazawa
+c 515 -2813 1 1 0 pad3512b_kanazawa
+c 269 -2813 1 1 0 pad3512b_kanazawa
+c 23 -2813 1 1 0 pad3512b_kanazawa
+c -223 -2813 1 1 0 pad3512b_kanazawa
+c -469 -2813 1 1 0 pad3512b_kanazawa
+c -715 -2813 1 1 0 pad3512b_kanazawa
+c -961 -2813 1 1 0 pad3512b_kanazawa
+c -1207 -2813 1 1 0 pad3512b_kanazawa
+c -1453 -2813 1 1 0 pad3512b_kanazawa
+c -1699 -2813 1 1 0 pad3512b_kanazawa
+c -1900 -1800 1 1 0 ACTEG01.gex
+c -1000 -1800 1 1 0 ACTEG02.gex
+c -100 -1800 1 1 0 ACTEG03.gex
+c 800 -1800 1 1 0 ACTEG04.gex
+c 1700 -1800 1 1 0 ACTEG05.gex
+c -1900 -900 1 1 0 ACTEG06.gex
+c -1000 -900 1 1 0 ACTEG07.gex
+c -100 -900 1 1 0 ACTEG08.gex
+c 800 -900 1 1 0 ACTEG09.gex
+c 1700 -900 1 1 0 ACTEG10.gex
+c -1900 0 1 1 0 ACTEG11.gex
+c -1000 0 1 1 0 ACTEG12.gex
+c -100 0 1 1 0 ACTEG13.gex
+c 800 0 1 1 0 ACTEG14.gex
+c 1700 0 1 1 0 ACTEG15.gex
+c -1900 900 1 1 0 ACTEG16.gex
+c -1000 900 1 1 0 ACTEG17.gex
+c 2552 1313 1 1 1 pch15x15.gex
+c -2114 -574 1 1 3 pch15x3.gex
+c -2114 164 1 1 3 pch15x1_8.gex
+c -2114 902 1 1 3 nch15x1_8.gex
+c -2114 -1312 1 1 3 nch15x3.gex
+c 2582 -834 1 1 1 r_pact.gex
+c 2565 -302 1 1 1 r_poly.gex
+c 2583 -605 1 1 1 r_nwell.gex
+c 2576 -1087 1 1 1 r_nact.gex

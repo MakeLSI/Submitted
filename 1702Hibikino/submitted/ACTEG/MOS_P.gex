@@ -1,0 +1,42 @@
+; structure creation     : 9/4/2016 (14:56:30)
+; structure modification : 9/4/2016 (14:56:30)
+; structure name : MOS_P.gex
+L 1
+B -11 3 440 420
+L 3
+B -9 5 438 418
+L 4
+B 7 10 421 410
+L 7
+B 14 7 414 413
+B 205 413 211 419
+L 9
+B 5 8 423 412
+L 12
+B 0 10 13 410
+B 415 10 429 410
+B 0 -10 429 0
+B -6 -10 0 8
+B 429 -10 435 8
+C 415 10 1 1 0 tr_120w.gex
+C 7 10 1 1 0 tr_120w.gex
+C -11 3 1 1 0 VTAP50.gex
+C -11 55 1 1 0 VTAP50.gex
+C -11 107 1 1 0 VTAP50.gex
+C -11 159 1 1 0 VTAP50.gex
+C -11 211 1 1 0 VTAP50.gex
+C -11 263 1 1 0 VTAP50.gex
+C -11 315 1 1 0 VTAP50.gex
+C -11 355 1 1 0 VTAP50.gex
+C 424 3 1 1 0 VTAP50.gex
+C 424 55 1 1 0 VTAP50.gex
+C 424 107 1 1 0 VTAP50.gex
+C 424 159 1 1 0 VTAP50.gex
+C 424 211 1 1 0 VTAP50.gex
+C 424 263 1 1 0 VTAP50.gex
+C 424 315 1 1 0 VTAP50.gex
+C 424 355 1 1 0 VTAP50.gex
+C 208 422 1 1 0 poly_via.gex
+l 5
+l 6
+B 5 8 423 412

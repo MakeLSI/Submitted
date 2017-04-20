@@ -1,0 +1,273 @@
+; structure creation     : 15/2/17 (7:48:54)
+; structure modification : 16/2/17 (19:55:45)
+; structure name : REG5
+L 12
+; [strans] magnification(x 10) not supported
+; [strans] magnification(x 10) not supported
+; [strans] magnification(x 10) not supported
+; [strans] magnification(x 10) not supported
+; [strans] magnification(x 10) not supported
+; [strans] magnification(x 10) not supported
+W 6 -96 275 -96 263 -120 263
+W 6 155 66 227 66
+W 6 155 176 227 176
+W 6 155 302 227 302
+W 6 155 412 227 412
+W 6 -120 51 -187 51
+B -180 344 -68 370
+B 160 344 220 370
+W 6 -84 499 -84 657
+B -150 465 -68 485
+B 160 229 190 249
+W 6 -96 167 -96 203
+W 6 -84 403 -84 451
+W 6 -96 439 -96 403
+W 6 -96 311 -96 275
+W 6 -84 311 -84 263
+W 6 -108 511 -108 535
+B 160 465 190 485
+W 6 -108 439 -108 415
+W 6 -108 275 -108 299
+W 6 -84 167 -84 215
+W 6 -108 179 -108 203
+W 6 -84 75 -84 27
+W 6 -96 39 -96 75
+B -68 -25 160 0
+B -150 229 -68 249
+W 6 -108 535 -108 657
+B -68 580 160 650
+B 160 108 220 134
+B -180 108 -68 134
+W 6 -120 191 -187 191
+W 6 -120 287 -187 287
+W 6 -120 427 -187 427
+W 6 -120 523 -187 523
+W 6 155 538 227 538
+W 6 -120 263 -187 263
+; [strans] magnification(x 10) not supported
+; [strans] magnification(x 10) not supported
+; [strans] magnification(x 10) not supported
+; [strans] magnification(x 10) not supported
+; [strans] magnification(x 10) not supported
+; [strans] magnification(x 10) not supported
+; [strans] magnification(x 10) not supported
+L 14
+; [strans] magnification(x 20) not supported
+W 6 -96 203 -96 275
+W 6 -96 403 -96 311
+W 6 -84 499 -84 451
+W 6 -108 511 -108 439
+W 20 -170 -45 -170 640 210 640 210 -45 -170 -45
+W 6 -120 427 -88 427
+W 6 -120 287 -88 287
+W 6 -120 191 -88 191
+W 6 -85 415 -108 415
+W 6 -85 439 -96 439
+W 6 -85 179 -108 179
+W 6 -85 63 -108 63
+W 6 -85 275 -96 275
+W 6 -85 511 -96 511
+W 6 -85 535 -108 535
+W 6 -85 299 -108 299
+W 6 -85 39 -96 39
+W 6 -85 203 -96 203
+W 6 -120 51 -85 51
+W 6 -120 523 -88 523
+W 20 180 610 -140 610 -140 -15 180 -15 180 610
+W 6 -96 511 -96 439
+W 6 -84 311 -84 403
+W 6 -108 415 -108 299
+W 6 -84 263 -84 215
+W 6 -108 203 -108 275
+W 6 -108 179 -108 63
+W 6 -96 75 -96 167
+W 6 -84 167 -84 75
+; [strans] magnification(x 20) not supported
+C -174 349 1 1 0 ka_VIA12
+C -174 357 1 1 0 ka_VIA12
+C -174 365 1 1 0 ka_VIA12
+C -166 349 1 1 0 ka_VIA12
+C -166 357 1 1 0 ka_VIA12
+C -166 365 1 1 0 ka_VIA12
+C -144 471 1 1 0 ka_VIA12
+C -144 479 1 1 0 ka_VIA12
+C -136 471 1 1 0 ka_VIA12
+C -136 479 1 1 0 ka_VIA12
+C -144 235 1 1 0 ka_VIA12
+C -144 243 1 1 0 ka_VIA12
+C -136 235 1 1 0 ka_VIA12
+C -136 243 1 1 0 ka_VIA12
+C 176 235 1 1 0 ka_VIA12
+C 176 243 1 1 0 ka_VIA12
+C 184 235 1 1 0 ka_VIA12
+C 184 243 1 1 0 ka_VIA12
+C -62 -19 1 1 0 ka_VIA12
+C -62 -11 1 1 0 ka_VIA12
+C -54 -19 1 1 0 ka_VIA12
+C -54 -11 1 1 0 ka_VIA12
+C -46 -19 1 1 0 ka_VIA12
+C -46 -11 1 1 0 ka_VIA12
+C -38 -19 1 1 0 ka_VIA12
+C -38 -11 1 1 0 ka_VIA12
+C -30 -19 1 1 0 ka_VIA12
+C -30 -11 1 1 0 ka_VIA12
+C -22 -19 1 1 0 ka_VIA12
+C -22 -11 1 1 0 ka_VIA12
+C -14 -19 1 1 0 ka_VIA12
+C -14 -11 1 1 0 ka_VIA12
+C -6 -19 1 1 0 ka_VIA12
+C -6 -11 1 1 0 ka_VIA12
+C 2 -19 1 1 0 ka_VIA12
+C 2 -11 1 1 0 ka_VIA12
+C 10 -19 1 1 0 ka_VIA12
+C 10 -11 1 1 0 ka_VIA12
+C 18 -19 1 1 0 ka_VIA12
+C 18 -11 1 1 0 ka_VIA12
+C 26 -19 1 1 0 ka_VIA12
+C 26 -11 1 1 0 ka_VIA12
+C 34 -19 1 1 0 ka_VIA12
+C 34 -11 1 1 0 ka_VIA12
+C 42 -19 1 1 0 ka_VIA12
+C 42 -11 1 1 0 ka_VIA12
+C 50 -19 1 1 0 ka_VIA12
+C 50 -11 1 1 0 ka_VIA12
+C 58 -19 1 1 0 ka_VIA12
+C 58 -11 1 1 0 ka_VIA12
+C 66 -19 1 1 0 ka_VIA12
+C 66 -11 1 1 0 ka_VIA12
+C 74 -19 1 1 0 ka_VIA12
+C 74 -11 1 1 0 ka_VIA12
+C 82 -19 1 1 0 ka_VIA12
+C 82 -11 1 1 0 ka_VIA12
+C 90 -19 1 1 0 ka_VIA12
+C 90 -11 1 1 0 ka_VIA12
+C 98 -19 1 1 0 ka_VIA12
+C 98 -11 1 1 0 ka_VIA12
+C 106 -19 1 1 0 ka_VIA12
+C 106 -11 1 1 0 ka_VIA12
+C 114 -19 1 1 0 ka_VIA12
+C 114 -11 1 1 0 ka_VIA12
+C 122 -19 1 1 0 ka_VIA12
+C 122 -11 1 1 0 ka_VIA12
+C 130 -19 1 1 0 ka_VIA12
+C 130 -11 1 1 0 ka_VIA12
+C 138 -19 1 1 0 ka_VIA12
+C 138 -11 1 1 0 ka_VIA12
+C 146 -19 1 1 0 ka_VIA12
+C 146 -11 1 1 0 ka_VIA12
+C 154 -19 1 1 0 ka_VIA12
+C 154 -11 1 1 0 ka_VIA12
+C -84 499 1 1 0 ka_VIA12
+C -108 63 1 1 0 ka_VIA12
+C -84 75 1 1 0 ka_VIA12
+C -84 167 1 1 0 ka_VIA12
+C -84 311 1 1 0 ka_VIA12
+C -96 403 1 1 0 ka_VIA12
+C -108 439 1 1 0 ka_VIA12
+C -120 191 1 1 0 ka_VIA12
+C -120 427 1 1 0 ka_VIA12
+C -120 51 1 1 0 ka_VIA12
+C -84 215 1 1 0 ka_VIA12
+C -108 415 1 1 0 ka_VIA12
+C -84 451 1 1 0 ka_VIA12
+C -96 39 1 1 0 ka_VIA12
+C -108 299 1 1 0 ka_VIA12
+C -96 275 1 1 0 ka_VIA12
+C 0 478 1 1 4 ka_REG
+C 0 0 1 1 0 ka_REG
+C 0 242 1 1 4 ka_REG
+C 0 236 1 1 0 ka_REG
+C 0 472 1 1 0 ka_REG
+C -108 535 1 1 0 ka_VIA12
+C -84 263 1 1 0 ka_VIA12
+C -84 27 1 1 0 ka_VIA12
+C -96 439 1 1 0 ka_VIA12
+C -96 203 1 1 0 ka_VIA12
+C -108 179 1 1 0 ka_VIA12
+C -120 523 1 1 0 ka_VIA12
+C -120 287 1 1 0 ka_VIA12
+C -108 511 1 1 0 ka_VIA12
+C -84 403 1 1 0 ka_VIA12
+C -96 311 1 1 0 ka_VIA12
+C -108 275 1 1 0 ka_VIA12
+C -108 203 1 1 0 ka_VIA12
+C -96 167 1 1 0 ka_VIA12
+C -96 75 1 1 0 ka_VIA12
+C -62 636 1 1 0 ka_VIA12
+C -62 644 1 1 0 ka_VIA12
+C -54 636 1 1 0 ka_VIA12
+C -54 644 1 1 0 ka_VIA12
+C -46 636 1 1 0 ka_VIA12
+C -46 644 1 1 0 ka_VIA12
+C -38 636 1 1 0 ka_VIA12
+C -38 644 1 1 0 ka_VIA12
+C -30 636 1 1 0 ka_VIA12
+C -30 644 1 1 0 ka_VIA12
+C -22 636 1 1 0 ka_VIA12
+C -22 644 1 1 0 ka_VIA12
+C -14 636 1 1 0 ka_VIA12
+C -14 644 1 1 0 ka_VIA12
+C -6 636 1 1 0 ka_VIA12
+C -6 644 1 1 0 ka_VIA12
+C 2 636 1 1 0 ka_VIA12
+C 2 644 1 1 0 ka_VIA12
+C 10 636 1 1 0 ka_VIA12
+C 10 644 1 1 0 ka_VIA12
+C 18 636 1 1 0 ka_VIA12
+C 18 644 1 1 0 ka_VIA12
+C 26 636 1 1 0 ka_VIA12
+C 26 644 1 1 0 ka_VIA12
+C 34 636 1 1 0 ka_VIA12
+C 34 644 1 1 0 ka_VIA12
+C 42 636 1 1 0 ka_VIA12
+C 42 644 1 1 0 ka_VIA12
+C 50 636 1 1 0 ka_VIA12
+C 50 644 1 1 0 ka_VIA12
+C 58 636 1 1 0 ka_VIA12
+C 58 644 1 1 0 ka_VIA12
+C 66 636 1 1 0 ka_VIA12
+C 66 644 1 1 0 ka_VIA12
+C 74 636 1 1 0 ka_VIA12
+C 74 644 1 1 0 ka_VIA12
+C 82 636 1 1 0 ka_VIA12
+C 82 644 1 1 0 ka_VIA12
+C 90 636 1 1 0 ka_VIA12
+C 90 644 1 1 0 ka_VIA12
+C 98 636 1 1 0 ka_VIA12
+C 98 644 1 1 0 ka_VIA12
+C 106 636 1 1 0 ka_VIA12
+C 106 644 1 1 0 ka_VIA12
+C 114 636 1 1 0 ka_VIA12
+C 114 644 1 1 0 ka_VIA12
+C 122 636 1 1 0 ka_VIA12
+C 122 644 1 1 0 ka_VIA12
+C 130 636 1 1 0 ka_VIA12
+C 130 644 1 1 0 ka_VIA12
+C 138 636 1 1 0 ka_VIA12
+C 138 644 1 1 0 ka_VIA12
+C 146 636 1 1 0 ka_VIA12
+C 146 644 1 1 0 ka_VIA12
+C 154 636 1 1 0 ka_VIA12
+C 154 644 1 1 0 ka_VIA12
+C 176 471 1 1 0 ka_VIA12
+C 176 479 1 1 0 ka_VIA12
+C 184 471 1 1 0 ka_VIA12
+C 184 479 1 1 0 ka_VIA12
+C -174 113 1 1 0 ka_VIA12
+C -174 121 1 1 0 ka_VIA12
+C -174 129 1 1 0 ka_VIA12
+C -166 113 1 1 0 ka_VIA12
+C -166 121 1 1 0 ka_VIA12
+C -166 129 1 1 0 ka_VIA12
+C 206 113 1 1 0 ka_VIA12
+C 206 121 1 1 0 ka_VIA12
+C 206 129 1 1 0 ka_VIA12
+C 214 113 1 1 0 ka_VIA12
+C 214 121 1 1 0 ka_VIA12
+C 214 129 1 1 0 ka_VIA12
+C 206 349 1 1 0 ka_VIA12
+C 206 357 1 1 0 ka_VIA12
+C 206 365 1 1 0 ka_VIA12
+C 214 349 1 1 0 ka_VIA12
+C 214 357 1 1 0 ka_VIA12
+C 214 365 1 1 0 ka_VIA12

@@ -1,0 +1,17 @@
+h -35 -7 36 33
+l 7
+b -23 20 12 6
+b -13 18 2 8
+b -23 18 2 8
+c -10 10 1 1 0 AC_M1.gex
+c -20 10 1 1 0 AC_M1.gex
+c -30 10 1 1 0 AC_M1.gex
+c -26 5 1 1 0 PMOS_CELL.gex
+c -36 5 1 1 0 PMOS_CELL.gex
+c -10 -2 1 2 0 AC_M1.gex
+c -20 -2 1 2 0 AC_M1.gex
+c -30 -2 1 2 0 AC_M1.gex
+c -26 -7 1 1 0 PMOS_CELL.gex
+c -26 -1 1 1 0 PMOS_CELL.gex
+c -36 -7 1 1 0 PMOS_CELL.gex
+c -36 -1 1 1 0 PMOS_CELL.gex

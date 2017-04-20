@@ -1,0 +1,16 @@
+h 0 2 26 37
+l 7
+b 12 2 3 6
+b 12 2 2 8
+l 12
+b 15 24 6 4
+c 15 2 1 1 0 P_M1.gex
+c 15 12 1 1 0 AC_M1.gex
+c 15 18 1 1 0 AC_M1.gex
+c 5 12 1 1 0 AC_M1.gex
+c 5 18 1 1 0 AC_M1.gex
+c -1 13 1 1 0 PMOS_CELL.gex
+c -1 7 1 1 0 PMOS_CELL.gex
+c 15 24 1 1 0 NAC_M1.gex
+c 20 24 1 1 0 NAC_M1.gex
+c 25 24 1 1 0 NAC_M1.gex

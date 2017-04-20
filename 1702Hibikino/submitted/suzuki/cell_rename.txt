@@ -1,0 +1,8 @@
+cell rename procedure
+0. set filename prefix in cell_rename.sh
+1. "sh < cell_rename_generate_list.sh" to generate cell_rename.list (* specfytarget file extension (*.gex) if needed)
+2. "sh < cell_rename.sh" to genere instance-call-renamed cells. move _* to to bacup directory
+3. check rename.sh, and "sh < cell_rename_generate_rename.sh" to generate rename.sh, a script to rename cells. don't miss to check rename.sh to specify only target files.
+
+4. add VTN/VTP using add_vt.awk, if needed like:
+% ls -l su_* | gawk '{print"gawk -f add_vt.awk",$NF,">_tmp";print"cat _tmp >>",$NF}' > do.sh ; sh < do.sh

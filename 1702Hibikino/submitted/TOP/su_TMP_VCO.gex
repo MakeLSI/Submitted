@@ -1,0 +1,26 @@
+h -122 -30 214 144
+l 7
+b -19 -5 97 6
+b -19 77 106 6
+l 12
+b -43 17 24 6
+b -63 17 16 6
+b -122 103 88 6
+b -122 -25 88 6
+b -83 17 15 6
+l 14
+b -34 31 95 6
+b -107 22 40 6
+c -93 -9 1 1 0 su_M1_M2.gex
+c 86 18 1 1 0 su_TMP_VCO_BIAS.gex
+c 66 18 1 1 0 su_TMP_VCO_UNIT.gex
+c 46 18 1 1 0 su_TMP_VCO_UNITA.gex
+c 26 18 1 1 0 su_TMP_VCO_UNITA.gex
+c 6 18 1 1 0 su_TMP_VCO_UNITA.gex
+c -14 18 1 1 0 su_TMP_VCO_UNITm.gex
+c -32 18 1 1 6 su_TMP_VCO_INV1.gex
+c -12 18 1 1 6 su_TMP_VCO_INV0.gex
+c -69 13 1 1 6 su_M1_M2.gex
+c -52 18 1 1 6 su_TMP_VCO_INV1.gex
+c -76 18 1 1 6 su_TMP_VCO_INV1.gex
+c -101 16 1 1 6 su_M1_M2.gex

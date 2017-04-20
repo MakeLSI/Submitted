@@ -1,0 +1,85 @@
+suzuki(4)
+SEL	DI
+DOUT	DO(ESDなし)
+
+takahashi(13)
+CLK	DI
+C	DI
+D	DI
+E	DI
+F	DI
+G	DI
+A	DI
+B	DI
+C1	DI
+SEL	DI
+OUT	DO
+
+furukawa(10)
+ESDなしパッド直結
+
+kadomoto(24)
+CLK	DI
+RESET	DI
+INST[4]	DI
+INST[3]	DI
+INST[2]	DI
+INST[1]	DI
+INST[0]	DI
+IMDATA[4]	DI
+IMDATA[3]	DI
+IMDATA[2]	DI
+IMDATA[1]	DI
+IMDATA[0]	DI
+ADDR[4]	DO
+ADDR[3]	DO
+ADDR[2]	DO
+ADDR[1]	DO
+ADDR[0]	DO
+OUTPUT[4]	DO
+OUTPUT[3]	DO
+OUTPUT[2]	DO
+OUTPUT[1]	DO
+OUTPUT[0]	DO
+
+muo(5)
+R1
+R2/GND/MOSB
+MOSD
+MOSS
+MOSG
+
+shimizu(5)
+INVI DI
+INVO DO
+RO   DO
+
+akita(5)
+VORO	DO
+VIDIV	DI
+VODIV	DO
+
+yamada(6)
+R DI
+S DI
+Q DO
+QB DO
+
+---------------
+使用可能パッド数=52本
+
+Chip1
+kadomoto(24)
+yamada(6)
+muo(5)
+akita(5)
+shimizu(5)
+
+Chihp3
+furukawa(10)
+furukawa2
+suzuki(4)
+
+takahashi(13)
+
+

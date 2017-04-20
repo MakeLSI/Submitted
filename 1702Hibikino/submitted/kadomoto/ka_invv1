@@ -1,0 +1,72 @@
+; structure creation     : 15/2/17 (4:20:3)
+; structure modification : 18/2/17 (13:14:43)
+; structure name : invv1
+L 1
+B -8 69 30 120
+L 2
+B -8 1 30 42
+L 3
+B -6 71 28 118
+B -6 3 28 40
+L 4
+B 2 109 20 115
+B 2 75 20 93
+B 2 6 20 12
+B 2 26 20 32
+L 5
+B 0 24 22 34
+L 6
+B 0 73 22 95
+L 7
+B 4 48 10 54
+B 10 23 12 96
+L 8
+B 0 107 22 117
+B 0 24 22 34
+L 9
+B 0 73 22 95
+B 0 4 22 14
+L 10
+B 4 111 6 113
+B 16 111 18 113
+B 8 111 10 113
+B 12 111 14 113
+B 4 81 6 83
+B 4 77 6 79
+B 16 81 18 83
+B 16 77 18 79
+B 4 89 6 91
+B 4 85 6 87
+B 16 89 18 91
+B 16 85 18 87
+B 4 8 6 10
+B 16 8 18 10
+B 8 8 10 10
+B 12 8 14 10
+B 4 28 6 30
+B 16 28 18 30
+L 11
+B 6 50 8 52
+L 12
+B 2 75 8 109
+B 0 109 22 121
+B 14 36 22 44
+B 2 53 10 61
+B 4 48 10 54
+B 2 12 8 32
+B 14 26 20 93
+B 0 0 22 12
+; [strans] magnification(x 4) not supported
+; [strans] magnification(x 4) not supported
+; [strans] magnification(x 4) not supported
+; [strans] magnification(x 4) not supported
+L 13
+B 16 38 20 42
+B 4 55 8 59
+L 14
+B 14 36 22 44
+B 2 53 10 61
+l 5
+B 0 24 22 34
+l 6
+B 0 73 22 95

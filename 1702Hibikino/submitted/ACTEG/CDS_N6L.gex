@@ -1,0 +1,48 @@
+; structure creation     : 9/4/2016 (5:29:48)
+; structure modification : 9/4/2016 (5:29:48)
+; structure name : CDS_N6L.gex
+L 2
+B -11 0 440 420
+L 3
+B -9 2 438 418
+L 7
+B 19 413 403 419
+L 8
+B 10 8 418 412
+L 12
+B 12 0 410 7
+B -6 -10 0 5
+B 0 -10 429 0
+B 429 -10 435 5
+C 211 422 1 1 0 poly_via.gex
+C 376 10 1 1 0 tr_6l_120w.gex
+C 348 10 1 1 0 tr_6l_120w.gex
+C 320 10 1 1 0 tr_6l_120w.gex
+C 292 10 1 1 0 tr_6l_120w.gex
+C 264 10 1 1 0 tr_6l_120w.gex
+C 236 10 1 1 0 tr_6l_120w.gex
+C 208 10 1 1 0 tr_6l_120w.gex
+C 180 10 1 1 0 tr_6l_120w.gex
+C 152 10 1 1 0 tr_6l_120w.gex
+C 124 10 1 1 0 tr_6l_120w.gex
+C 96 10 1 1 0 tr_6l_120w.gex
+C 68 10 1 1 0 tr_6l_120w.gex
+C 40 10 1 1 0 tr_6l_120w.gex
+C 12 10 1 1 0 tr_6l_120w.gex
+C -11 0 1 1 0 GTAP50.gex
+C -11 60 1 1 0 GTAP50.gex
+C -11 120 1 1 0 GTAP50.gex
+C -11 180 1 1 0 GTAP50.gex
+C -11 240 1 1 0 GTAP50.gex
+C -11 300 1 1 0 GTAP50.gex
+C -11 348 1 1 0 GTAP50.gex
+C 424 0 1 1 0 GTAP50.gex
+C 424 60 1 1 0 GTAP50.gex
+C 424 120 1 1 0 GTAP50.gex
+C 424 180 1 1 0 GTAP50.gex
+C 424 240 1 1 0 GTAP50.gex
+C 424 300 1 1 0 GTAP50.gex
+C 424 348 1 1 0 GTAP50.gex
+l 5
+B 10 8 418 412
+l 6

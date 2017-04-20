@@ -1,0 +1,19 @@
+; structure creation     : 8/2/17 (11:15:56)
+; structure modification : 18/2/17 (5:1:8)
+; structure name : div10
+L 12
+; [strans] magnification(x 10) not supported
+; [strans] magnification(x 10) not supported
+L 14
+; [strans] magnification(x 5) not supported
+; [strans] magnification(x 5) not supported
+C -29 50 1 1 0 ak_div1
+C 119 50 1 1 0 ak_div1
+C 267 50 1 1 0 ak_div1
+C 415 50 1 1 0 ak_div1
+C 563 50 1 1 0 ak_div1
+C 711 50 1 1 0 ak_div1
+C 859 50 1 1 0 ak_div1
+C 1007 50 1 1 0 ak_div1
+C 1155 50 1 1 0 ak_div1
+C 1303 50 1 1 0 ak_div1

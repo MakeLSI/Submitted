@@ -1,0 +1,7 @@
+; structure creation     : 12/4/2016 (19:3:44)
+; structure modification : 12/4/2016 (19:3:44)
+; structure name : ACTEG05.gex
+C 350 200 1 1 0 CDB_P1_8W.gex
+C 0 0 1 1 0 ACPAD_OPEN.gex
+l 5
+l 6

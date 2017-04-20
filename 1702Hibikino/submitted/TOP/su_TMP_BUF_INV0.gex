@@ -1,0 +1,25 @@
+h 0 0 26 144
+l 1
+b 0 112 26 16
+l 2
+b 0 16 26 10
+l 7
+b 12 45 2 24
+c 15 31 1 2 0 su_AC_M1.gex
+c 5 31 1 2 0 su_AC_M1.gex
+c 15 71 1 6 0 su_AC_M1.gex
+c 5 71 1 6 0 su_AC_M1.gex
+c 25 1 1 1 0 su_PAC_M1.gex
+c 20 1 1 1 0 su_PAC_M1.gex
+c 25 129 1 1 0 su_NAC_M1.gex
+c 20 129 1 1 0 su_NAC_M1.gex
+c -1 32 1 1 0 su_NMOS_CELL.gex
+c -1 26 1 1 0 su_NMOS_CELL.gex
+c -1 66 1 1 0 su_PMOS_CELL.gex
+c -1 72 1 1 0 su_PMOS_CELL.gex
+c -1 78 1 1 0 su_PMOS_CELL.gex
+c -1 84 1 1 0 su_PMOS_CELL.gex
+c -1 90 1 1 0 su_PMOS_CELL.gex
+c -1 96 1 1 0 su_PMOS_CELL.gex
+c 15 129 1 1 0 su_NAC_M1.gex
+c 15 1 1 1 0 su_PAC_M1.gex

@@ -1,0 +1,7 @@
+; structure creation     : 12/4/2016 (19:4:2)
+; structure modification : 12/4/2016 (19:4:2)
+; structure name : ACTEG07.gex
+C 350 200 1 1 0 MOS_P.gex
+C 0 0 1 1 0 ACPAD_OPEN.gex
+l 5
+l 6

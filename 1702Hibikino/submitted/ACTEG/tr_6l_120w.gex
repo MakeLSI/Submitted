@@ -1,0 +1,14 @@
+; structure creation     : 8/4/2016 (11:20:6)
+; structure modification : 8/4/2016 (11:20:6)
+; structure name : tr_6l_120w.gex
+L 4
+B 0 0 34 400
+L 7
+B 7 -3 27 403
+L 12
+B 28 -3 34 400
+B 0 -3 6 400
+C 28 0 1 1 0 tr_120w.gex
+C 0 0 1 1 0 tr_120w.gex
+l 5
+l 6

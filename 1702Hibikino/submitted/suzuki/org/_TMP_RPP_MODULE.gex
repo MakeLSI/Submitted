@@ -1,0 +1,101 @@
+h -46 37 190 258
+l 1
+b -46 37 190 258
+l 3
+b -44 39 186 254
+l 4
+b -41 42 6 248
+b -41 42 180 6
+b 133 42 6 248
+b -41 284 180 6
+l 8
+b -43 282 184 10
+b 131 40 10 252
+b -43 40 184 10
+b -43 40 10 252
+l 12
+b -23 52 4 8
+b -3 52 4 8
+b 17 52 4 8
+b 37 52 4 8
+b 57 52 4 8
+b 77 52 4 8
+b 97 52 4 8
+b 117 52 4 8
+b -13 272 4 8
+b 7 272 4 8
+b 27 272 4 8
+b 47 272 4 8
+b 67 272 4 8
+b 87 272 4 8
+b 107 272 4 8
+b 121 174 6 106
+b 121 136 6 22
+b -13 284 152 8
+l 14
+b -12 284 151 8
+c -31 38 1 1 0 NAC_M1.gex
+c -25 38 1 1 0 NAC_M1.gex
+c -19 38 1 1 0 NAC_M1.gex
+c -13 38 1 1 0 NAC_M1.gex
+c -7 38 1 1 0 NAC_M1.gex
+c -1 38 1 1 0 NAC_M1.gex
+c 5 38 1 1 0 NAC_M1.gex
+c 11 38 1 1 0 NAC_M1.gex
+c 17 38 1 1 0 NAC_M1.gex
+c 23 38 1 1 0 NAC_M1.gex
+c 29 38 1 1 0 NAC_M1.gex
+c 35 38 1 1 0 NAC_M1.gex
+c 41 38 1 1 0 NAC_M1.gex
+c 47 38 1 1 0 NAC_M1.gex
+c 53 38 1 1 0 NAC_M1.gex
+c 59 38 1 1 0 NAC_M1.gex
+c 65 38 1 1 0 NAC_M1.gex
+c 71 38 1 1 0 NAC_M1.gex
+c 77 38 1 1 0 NAC_M1.gex
+c 83 38 1 1 0 NAC_M1.gex
+c 89 38 1 1 0 NAC_M1.gex
+c 95 38 1 1 0 NAC_M1.gex
+c 101 38 1 1 0 NAC_M1.gex
+c 107 38 1 1 0 NAC_M1.gex
+c 113 38 1 1 0 NAC_M1.gex
+c 119 38 1 1 0 NAC_M1.gex
+c 125 38 1 1 0 NAC_M1.gex
+c 131 38 1 1 0 NAC_M1.gex
+c 137 38 1 1 0 NAC_M1.gex
+c 143 38 1 1 0 NAC_M1.gex
+c -34 45 1 1 0 TMP_RPP_UNITS.gex
+c -24 45 1 1 0 TMP_RPP_UNITS.gex
+c -14 45 1 1 0 TMP_RPP_UNITS.gex
+c -4 45 1 1 0 TMP_RPP_UNITS.gex
+c 6 45 1 1 0 TMP_RPP_UNITS.gex
+c 16 45 1 1 0 TMP_RPP_UNITS.gex
+c 26 45 1 1 0 TMP_RPP_UNITS.gex
+c 36 45 1 1 0 TMP_RPP_UNITS.gex
+c 46 45 1 1 0 TMP_RPP_UNITS.gex
+c 56 45 1 1 0 TMP_RPP_UNITS.gex
+c 66 45 1 1 0 TMP_RPP_UNITS.gex
+c 76 45 1 1 0 TMP_RPP_UNITS.gex
+c 86 45 1 1 0 TMP_RPP_UNITS.gex
+c 96 45 1 1 0 TMP_RPP_UNITS.gex
+c 106 45 1 1 0 TMP_RPP_UNITS.gex
+c 116 45 1 1 0 TMP_RPP_UNITS.gex
+c 133 280 1 1 0 M1_M2.gex
+c 117 280 1 1 0 M1_M2.gex
+c 101 280 1 1 0 M1_M2.gex
+c 85 280 1 1 0 M1_M2.gex
+c 69 280 1 1 0 M1_M2.gex
+c 53 280 1 1 0 M1_M2.gex
+c 37 280 1 1 0 M1_M2.gex
+c 21 280 1 1 0 M1_M2.gex
+c 5 280 1 1 0 M1_M2.gex
+c -11 280 1 1 0 M1_M2.gex
+c 124 284 1 1 0 AC_M1.gex
+c 108 284 1 1 0 AC_M1.gex
+c 92 284 1 1 0 AC_M1.gex
+c 76 284 1 1 0 AC_M1.gex
+c 60 284 1 1 0 AC_M1.gex
+c 44 284 1 1 0 AC_M1.gex
+c 28 284 1 1 0 AC_M1.gex
+c 12 284 1 1 0 AC_M1.gex
+c -4 284 1 1 0 AC_M1.gex

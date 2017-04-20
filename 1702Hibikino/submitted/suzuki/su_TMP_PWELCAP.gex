@@ -1,0 +1,22 @@
+h -406 -34 440 64
+l 12
+b -162 -34 16 64
+b -40 -34 5 64
+b -273 -34 5 64
+b -25 22 52 8
+b -345 22 54 8
+l 14
+b -291 22 274 8
+c -99 18 2 1 0 su_M1_M2.gex
+c -221 18 2 1 0 su_M1_M2.gex
+c -369 3 1 1 0 su_PWELCAP50.gex
+c -305 3 1 1 6 su_PWELCAP50.gex
+c -247 3 1 1 0 su_PWELCAP50.gex
+c -183 3 1 1 6 su_PWELCAP50.gex
+c -125 3 1 1 0 su_PWELCAP50.gex
+c -61 3 1 1 6 su_PWELCAP50.gex
+c -3 3 1 1 0 su_PWELCAP50.gex
+c -23 18 1 1 0 su_M1_M2.gex
+c -289 18 1 1 0 su_M1_M2.gex
+l 5
+l 6

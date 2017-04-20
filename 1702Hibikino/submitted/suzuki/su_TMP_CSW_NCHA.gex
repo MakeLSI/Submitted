@@ -1,0 +1,10 @@
+h -15 -16 26 34
+l 7
+c -10 -11 1 4 0 su_AC_M1.gex
+c 0 -11 1 4 0 su_AC_M1.gex
+c -16 -16 1 1 0 su_NMOS_CELL.gex
+c -16 -10 1 1 0 su_NMOS_CELL.gex
+c -16 -4 1 1 0 su_NMOS_CELL.gex
+c -16 2 1 1 0 su_NMOS_CELL.gex
+l 5
+l 6

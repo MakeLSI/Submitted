@@ -1,0 +1,71 @@
+h -11 -10 443 435
+l 1
+b -11 0 443 420
+l 3
+b -9 2 439 416
+l 7
+b 16 413 392 6
+l 9
+b 7 8 410 404
+l 12
+b 9 0 406 7
+b 421 -10 6 15
+b 0 -10 421 10
+b -6 -10 6 15
+c 399 10 1 1 0 tr_06l_120w.gex
+c 416 356 1 1 0 VTAP50.gex
+c 416 312 1 1 0 VTAP50.gex
+c 416 260 1 1 0 VTAP50.gex
+c 416 208 1 1 0 VTAP50.gex
+c 416 156 1 1 0 VTAP50.gex
+c 416 104 1 1 0 VTAP50.gex
+c 416 52 1 1 0 VTAP50.gex
+c -11 356 1 1 0 VTAP50.gex
+c -11 312 1 1 0 VTAP50.gex
+c -11 260 1 1 0 VTAP50.gex
+c -11 208 1 1 0 VTAP50.gex
+c -11 156 1 1 0 VTAP50.gex
+c -11 104 1 1 0 VTAP50.gex
+c -11 52 1 1 0 VTAP50.gex
+c 416 0 1 1 0 VTAP50.gex
+c -11 0 1 1 0 VTAP50.gex
+c 208 422 1 1 0 poly_via.gex
+c 9 10 1 1 0 tr_06l_120w.gex
+c 19 10 1 1 0 tr_06l_120w.gex
+c 29 10 1 1 0 tr_06l_120w.gex
+c 39 10 1 1 0 tr_06l_120w.gex
+c 49 10 1 1 0 tr_06l_120w.gex
+c 59 10 1 1 0 tr_06l_120w.gex
+c 69 10 1 1 0 tr_06l_120w.gex
+c 79 10 1 1 0 tr_06l_120w.gex
+c 89 10 1 1 0 tr_06l_120w.gex
+c 99 10 1 1 0 tr_06l_120w.gex
+c 109 10 1 1 0 tr_06l_120w.gex
+c 119 10 1 1 0 tr_06l_120w.gex
+c 129 10 1 1 0 tr_06l_120w.gex
+c 139 10 1 1 0 tr_06l_120w.gex
+c 149 10 1 1 0 tr_06l_120w.gex
+c 159 10 1 1 0 tr_06l_120w.gex
+c 169 10 1 1 0 tr_06l_120w.gex
+c 179 10 1 1 0 tr_06l_120w.gex
+c 189 10 1 1 0 tr_06l_120w.gex
+c 199 10 1 1 0 tr_06l_120w.gex
+c 209 10 1 1 0 tr_06l_120w.gex
+c 219 10 1 1 0 tr_06l_120w.gex
+c 229 10 1 1 0 tr_06l_120w.gex
+c 239 10 1 1 0 tr_06l_120w.gex
+c 249 10 1 1 0 tr_06l_120w.gex
+c 259 10 1 1 0 tr_06l_120w.gex
+c 269 10 1 1 0 tr_06l_120w.gex
+c 279 10 1 1 0 tr_06l_120w.gex
+c 289 10 1 1 0 tr_06l_120w.gex
+c 299 10 1 1 0 tr_06l_120w.gex
+c 309 10 1 1 0 tr_06l_120w.gex
+c 319 10 1 1 0 tr_06l_120w.gex
+c 329 10 1 1 0 tr_06l_120w.gex
+c 339 10 1 1 0 tr_06l_120w.gex
+c 349 10 1 1 0 tr_06l_120w.gex
+c 359 10 1 1 0 tr_06l_120w.gex
+c 369 10 1 1 0 tr_06l_120w.gex
+c 379 10 1 1 0 tr_06l_120w.gex
+c 389 10 1 1 0 tr_06l_120w.gex

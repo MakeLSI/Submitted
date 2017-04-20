@@ -1,0 +1,19 @@
+h -20 -48 26 144
+l 7
+b -9 13 3 6
+b -8 4 2 17
+b -8 -3 2 6
+b -8 3 2 1
+l 12
+b -5 -5 6 28
+b -20 -43 26 6
+b -15 -23 10 6
+b -15 -5 6 42
+t -7 88 4 0 VDD
+t -7 -40 4 0 VSS
+l 14
+c -15 13 1 1 0 su_P_M1.gex
+c -20 18 1 1 0 su_TMP_VCO_UNIT_PCHs.gex
+c -20 -48 1 1 0 su_TMP_VCO_UNIT_NCHs.gex
+l 5
+l 6

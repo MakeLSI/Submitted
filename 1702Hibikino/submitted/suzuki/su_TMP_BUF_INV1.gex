@@ -1,0 +1,25 @@
+h -22 10 56 144
+l 7
+b -11 71 34 6
+l 12
+b 13 53 6 28
+b -7 53 6 28
+b 23 21 6 20
+b 3 21 6 20
+b -17 21 6 20
+b 23 117 6 26
+b 3 117 6 26
+b -17 117 6 26
+l 14
+b -14 71 40 6
+c -20 65 1 1 0 su_M1_M2.gex
+c 28 65 1 1 0 su_M1_M2.gex
+c -17 71 1 1 0 su_P_M1.gex
+c 23 71 1 1 0 su_P_M1.gex
+c 0 53 2 1 0 su_M1_M2.gex
+c 8 10 1 1 0 su_TMP_BUF_INV0.gex
+c -2 10 1 1 0 su_TMP_BUF_INV0.gex
+c -12 10 1 1 0 su_TMP_BUF_INV0.gex
+c -22 10 1 1 0 su_TMP_BUF_INV0.gex
+l 5
+l 6

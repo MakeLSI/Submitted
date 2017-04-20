@@ -1,0 +1,7 @@
+; structure creation     : 31/0/2017 (16:19:58)
+; structure modification : 31/0/2017 (16:19:58)
+; structure name : SG_PTS.gex
+C 0 150 1 1 0 pad0.gex
+C 0 0 1 1 0 pad0.gex
+l 5
+l 6

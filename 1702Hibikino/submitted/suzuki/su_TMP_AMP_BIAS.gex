@@ -1,0 +1,11 @@
+h -47 -18 112 144
+l 3
+b 45 112 12 12
+b -39 112 12 12
+l 12
+b 3 15 45 6
+b 3 15 12 70
+c 19 10 1 1 6 su_TMP_AMP_TAIL.gex
+c 26 81 1 1 0 su_TMP_AMP_BIAS_LD.gex
+l 5
+l 6

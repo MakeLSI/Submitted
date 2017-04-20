@@ -1,0 +1,21 @@
+h 0 0 26 48
+l 2
+b 0 26 26 6
+l 3
+b 2 24 22 10
+l 7
+b 12 25 3 6
+b 12 23 2 8
+l 12
+b 15 11 6 4
+b 5 21 6 16
+c 25 1 1 1 0 PAC_M1.gex
+c 20 1 1 1 0 PAC_M1.gex
+c 15 1 1 1 0 PAC_M1.gex
+c 15 37 1 1 0 AC_M1.gex
+c 5 37 1 1 0 AC_M1.gex
+c -1 32 1 1 0 NMOS_CELL.gex
+c 15 25 1 1 0 P_M1.gex
+c 15 15 1 1 0 AC_M1.gex
+c 5 15 1 1 0 AC_M1.gex
+c -1 10 1 1 0 NMOS_CELL.gex

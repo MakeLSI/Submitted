@@ -1,0 +1,40 @@
+; structure creation     : 9/4/2016 (14:48:40)
+; structure modification : 9/4/2016 (14:48:40)
+; structure name : MOS_N.gex
+L 2
+B -11 0 440 420
+L 3
+B -9 2 438 418
+L 4
+B 7 10 421 410
+L 7
+B 14 7 414 413
+B 205 413 211 419
+L 8
+B 5 8 423 412
+L 12
+B 0 10 13 410
+B 415 10 429 410
+B 429 -10 435 5
+B 0 -10 429 0
+B -6 -10 0 5
+C 415 10 1 1 0 tr_120w.gex
+C 7 10 1 1 0 tr_120w.gex
+C 424 348 1 1 0 GTAP50.gex
+C 424 300 1 1 0 GTAP50.gex
+C 424 240 1 1 0 GTAP50.gex
+C 424 180 1 1 0 GTAP50.gex
+C 424 120 1 1 0 GTAP50.gex
+C 424 60 1 1 0 GTAP50.gex
+C 424 0 1 1 0 GTAP50.gex
+C -11 348 1 1 0 GTAP50.gex
+C -11 300 1 1 0 GTAP50.gex
+C -11 240 1 1 0 GTAP50.gex
+C -11 180 1 1 0 GTAP50.gex
+C -11 120 1 1 0 GTAP50.gex
+C -11 60 1 1 0 GTAP50.gex
+C -11 0 1 1 0 GTAP50.gex
+C 208 422 1 1 0 poly_via.gex
+l 5
+B 5 8 423 412
+l 6

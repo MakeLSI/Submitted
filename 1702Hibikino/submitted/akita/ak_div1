@@ -1,0 +1,13 @@
+; structure creation     : 8/2/17 (11:14:49)
+; structure modification : 18/2/17 (5:1:8)
+; structure name : div1
+L 12
+; [strans] magnification(x 5) not supported
+; [strans] magnification(x 5) not supported
+L 14
+; [strans] magnification(x 5) not supported
+B 32 54 112 62
+B 0 58 12 66
+B 138 58 148 66
+; [strans] magnification(x 5) not supported
+C 0 0 1 1 0 ak_dff

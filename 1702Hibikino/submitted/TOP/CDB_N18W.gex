@@ -1,0 +1,36 @@
+h -11 -10 451 435
+l 2
+b -11 0 451 420
+l 3
+b -9 2 447 416
+l 7
+b 208 400 6 19
+l 8
+b 5 8 418 404
+l 12
+b -6 -10 6 15
+b 0 -10 429 10
+b 429 -10 6 15
+b 0 0 13 400
+b 415 0 14 400
+c -11 0 1 1 0 GTAP50.gex
+c -11 60 1 1 0 GTAP50.gex
+c -11 120 1 1 0 GTAP50.gex
+c -11 180 1 1 0 GTAP50.gex
+c -11 240 1 1 0 GTAP50.gex
+c -11 300 1 1 0 GTAP50.gex
+c -11 348 1 1 0 GTAP50.gex
+c 424 0 1 1 0 GTAP50.gex
+c 424 60 1 1 0 GTAP50.gex
+c 424 120 1 1 0 GTAP50.gex
+c 424 180 1 1 0 GTAP50.gex
+c 424 240 1 1 0 GTAP50.gex
+c 424 300 1 1 0 GTAP50.gex
+c 424 348 1 1 0 GTAP50.gex
+c 7 10 1 1 0 tr_120l_18w.gex
+c 7 76 1 1 0 tr_120l_18w.gex
+c 7 142 1 1 0 tr_120l_18w.gex
+c 7 208 1 1 0 tr_120l_18w.gex
+c 7 274 1 1 0 tr_120l_18w.gex
+c 7 340 1 1 0 tr_120l_18w.gex
+c 211 422 1 1 0 poly_via.gex

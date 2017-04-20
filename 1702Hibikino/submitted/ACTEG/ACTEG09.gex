@@ -1,0 +1,7 @@
+; structure creation     : 12/4/2016 (19:4:13)
+; structure modification : 12/4/2016 (19:4:13)
+; structure name : ACTEG09.gex
+C 350 200 1 1 0 CDS_N6L.gex
+C 0 0 1 1 0 ACPAD_OPEN.gex
+l 5
+l 6

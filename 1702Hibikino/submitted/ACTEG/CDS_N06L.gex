@@ -1,0 +1,74 @@
+; structure creation     : 9/4/2016 (6:58:16)
+; structure modification : 9/4/2016 (6:58:16)
+; structure name : CDS_N06L.gex
+L 2
+B -11 0 440 420
+L 3
+B -9 2 438 418
+L 7
+B 19 413 411 419
+L 8
+B 10 8 420 412
+L 12
+B 12 0 418 7
+B 429 -10 435 5
+B 0 -10 429 0
+B -6 -10 0 5
+C 208 422 1 1 0 poly_via.gex
+C 402 10 1 1 0 tr_06l_120w.gex
+C 392 10 1 1 0 tr_06l_120w.gex
+C 382 10 1 1 0 tr_06l_120w.gex
+C 372 10 1 1 0 tr_06l_120w.gex
+C 362 10 1 1 0 tr_06l_120w.gex
+C 352 10 1 1 0 tr_06l_120w.gex
+C 342 10 1 1 0 tr_06l_120w.gex
+C 332 10 1 1 0 tr_06l_120w.gex
+C 322 10 1 1 0 tr_06l_120w.gex
+C 312 10 1 1 0 tr_06l_120w.gex
+C 302 10 1 1 0 tr_06l_120w.gex
+C 292 10 1 1 0 tr_06l_120w.gex
+C 282 10 1 1 0 tr_06l_120w.gex
+C 272 10 1 1 0 tr_06l_120w.gex
+C 262 10 1 1 0 tr_06l_120w.gex
+C 252 10 1 1 0 tr_06l_120w.gex
+C 242 10 1 1 0 tr_06l_120w.gex
+C 232 10 1 1 0 tr_06l_120w.gex
+C 222 10 1 1 0 tr_06l_120w.gex
+C 212 10 1 1 0 tr_06l_120w.gex
+C 202 10 1 1 0 tr_06l_120w.gex
+C 192 10 1 1 0 tr_06l_120w.gex
+C 182 10 1 1 0 tr_06l_120w.gex
+C 172 10 1 1 0 tr_06l_120w.gex
+C 162 10 1 1 0 tr_06l_120w.gex
+C 152 10 1 1 0 tr_06l_120w.gex
+C 142 10 1 1 0 tr_06l_120w.gex
+C 132 10 1 1 0 tr_06l_120w.gex
+C 122 10 1 1 0 tr_06l_120w.gex
+C 112 10 1 1 0 tr_06l_120w.gex
+C 102 10 1 1 0 tr_06l_120w.gex
+C 92 10 1 1 0 tr_06l_120w.gex
+C 82 10 1 1 0 tr_06l_120w.gex
+C 72 10 1 1 0 tr_06l_120w.gex
+C 62 10 1 1 0 tr_06l_120w.gex
+C 52 10 1 1 0 tr_06l_120w.gex
+C 42 10 1 1 0 tr_06l_120w.gex
+C 32 10 1 1 0 tr_06l_120w.gex
+C 22 10 1 1 0 tr_06l_120w.gex
+C 12 10 1 1 0 tr_06l_120w.gex
+C 424 348 1 1 0 GTAP50.gex
+C 424 300 1 1 0 GTAP50.gex
+C 424 240 1 1 0 GTAP50.gex
+C 424 180 1 1 0 GTAP50.gex
+C 424 120 1 1 0 GTAP50.gex
+C 424 60 1 1 0 GTAP50.gex
+C 424 0 1 1 0 GTAP50.gex
+C -11 348 1 1 0 GTAP50.gex
+C -11 300 1 1 0 GTAP50.gex
+C -11 240 1 1 0 GTAP50.gex
+C -11 180 1 1 0 GTAP50.gex
+C -11 120 1 1 0 GTAP50.gex
+C -11 60 1 1 0 GTAP50.gex
+C -11 0 1 1 0 GTAP50.gex
+l 5
+B 10 8 420 412
+l 6

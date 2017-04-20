@@ -1,0 +1,70 @@
+; structure creation     : 9/4/2016 (6:43:32)
+; structure modification : 9/4/2016 (6:43:32)
+; structure name : CDB_P1_8W.gex
+L 1
+B -11 0 440 420
+L 3
+B -9 2 438 418
+L 7
+B 205 403 211 419
+L 9
+B 5 8 423 412
+L 12
+B 415 0 429 400
+B 0 0 13 400
+B 0 -10 429 0
+B 429 -10 435 5
+B -6 -10 0 5
+C 7 394 1 1 0 tr_120l_1_8w.gex
+C 7 382 1 1 0 tr_120l_1_8w.gex
+C 7 370 1 1 0 tr_120l_1_8w.gex
+C 7 358 1 1 0 tr_120l_1_8w.gex
+C 7 346 1 1 0 tr_120l_1_8w.gex
+C 7 334 1 1 0 tr_120l_1_8w.gex
+C 7 322 1 1 0 tr_120l_1_8w.gex
+C 7 310 1 1 0 tr_120l_1_8w.gex
+C 7 298 1 1 0 tr_120l_1_8w.gex
+C 7 286 1 1 0 tr_120l_1_8w.gex
+C 7 274 1 1 0 tr_120l_1_8w.gex
+C 7 262 1 1 0 tr_120l_1_8w.gex
+C 7 250 1 1 0 tr_120l_1_8w.gex
+C 7 238 1 1 0 tr_120l_1_8w.gex
+C 7 226 1 1 0 tr_120l_1_8w.gex
+C 7 214 1 1 0 tr_120l_1_8w.gex
+C 7 202 1 1 0 tr_120l_1_8w.gex
+C 7 190 1 1 0 tr_120l_1_8w.gex
+C 7 178 1 1 0 tr_120l_1_8w.gex
+C 7 166 1 1 0 tr_120l_1_8w.gex
+C 7 154 1 1 0 tr_120l_1_8w.gex
+C 7 142 1 1 0 tr_120l_1_8w.gex
+C 7 130 1 1 0 tr_120l_1_8w.gex
+C 7 118 1 1 0 tr_120l_1_8w.gex
+C 7 106 1 1 0 tr_120l_1_8w.gex
+C 7 94 1 1 0 tr_120l_1_8w.gex
+C 7 82 1 1 0 tr_120l_1_8w.gex
+C 7 70 1 1 0 tr_120l_1_8w.gex
+C 7 58 1 1 0 tr_120l_1_8w.gex
+C 7 46 1 1 0 tr_120l_1_8w.gex
+C 7 34 1 1 0 tr_120l_1_8w.gex
+C 7 22 1 1 0 tr_120l_1_8w.gex
+C 7 10 1 1 0 tr_120l_1_8w.gex
+C 424 356 1 1 0 VTAP50.gex
+C 424 260 1 1 0 VTAP50.gex
+C 424 312 1 1 0 VTAP50.gex
+C 424 156 1 1 0 VTAP50.gex
+C 424 208 1 1 0 VTAP50.gex
+C 424 52 1 1 0 VTAP50.gex
+C 424 104 1 1 0 VTAP50.gex
+C 424 0 1 1 0 VTAP50.gex
+C 208 422 1 1 0 poly_via.gex
+C -11 0 1 1 0 VTAP50.gex
+C -11 52 1 1 0 VTAP50.gex
+C -11 104 1 1 0 VTAP50.gex
+C -11 156 1 1 0 VTAP50.gex
+C -11 208 1 1 0 VTAP50.gex
+C -11 260 1 1 0 VTAP50.gex
+C -11 312 1 1 0 VTAP50.gex
+C -11 356 1 1 0 VTAP50.gex
+l 5
+l 6
+B 5 8 423 412

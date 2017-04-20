@@ -1,0 +1,23 @@
+h -10 0 62 310
+l 7
+b 11 225 20 6
+b 28 185 2 48
+b 12 185 2 48
+l 12
+b 15 183 12 52
+l 14
+b 13 0 16 219
+b 34 223 6 87
+b 2 231 6 79
+b 8 223 26 8
+c 7 199 1 2 0 su_M1_M2.gex
+c 31 199 1 2 0 su_M1_M2.gex
+c 27 199 2 2 6 su_M1_M2.gex
+c 40 219 1 1 6 su_M1_M2.gex
+c 6 219 1 1 6 su_M1_M2.gex
+c 37 225 1 1 6 su_P_M1.gex
+c 11 225 1 1 6 su_P_M1.gex
+c 52 0 1 1 6 su_TMP_BUF_UNIT_HF.gex
+c -10 0 1 1 0 su_TMP_BUF_UNIT_HF.gex
+l 5
+l 6

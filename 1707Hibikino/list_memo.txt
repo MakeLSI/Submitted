@@ -1,0 +1,55 @@
+鈴木
+RES 4
+TMP 5
+
+清水＠東海大 10
+DAC
+
+門本 7
+レジスタ
+信号線：5（LOAD, IDATA, CLK, RST, ODATA）
+電源：2（Vdd, Gnd）
+
+森山 22
+使用ピン（左側から半時計回り）
+L Voutop2
+L VDD
+L Vbiasop1
+L Vinop1-
+
+U Vinop1+
+U Voutop1
+U Voutop3
+
+R Vbiasop3
+R Vinop3+
+R Vb1cont
+R Dsw1
+R Dsw2
+R Dsw3
+R Dsw4
+R Dsw5
+R Dsw6
+
+D Vinoutd2
+D VN
+D Vb2cont
+D Vind1
+D Vbiasop2
+
+GND
+※Dsw1-6はデジタル入力なので共用OK、VDDとGNDができるだけボンディングパッドに近くに
+
+佐藤 20
+入力端子
+X_i[3:0]	4bit入力信号
+Y_i[3:0]	4bit入力信号
+ZX_i, NX_i	1ビット制御信号
+ZY_i, NY_i	1ビット制御信号
+FC_i, NO_i	1ビット制御信号
+Vdd, Vss	電源、グランド
+
+出力端子
+Z_o[3:0]	4bit出力信号
+
+

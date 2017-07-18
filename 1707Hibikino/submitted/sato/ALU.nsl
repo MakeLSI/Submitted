@@ -1,0 +1,36 @@
+declare ALU {
+    input X_i[4]; 
+    input ZX_i;
+    input NX_i;
+
+    input Y_i[4]; 
+    input ZY_i;
+    input NY_i;
+
+    input FC_i;
+    input NO_i;
+
+    output Z_o[4];
+}
+
+module ALU {
+    wire X_int[4];
+    wire Y_int[4];
+    wire Z_int[4];
+
+    if (~ZX_i && ~NX_i) X_int=X_i;
+    if (~ZX_i &&  NX_i) X_int=~X_i;
+    if ( ZX_i && ~NX_i) X_int=4'b0000;
+    if ( ZX_i &&  NX_i) X_int=4'b1111;
+
+    if (~ZY_i && ~NY_i) Y_int=Y_i;
+    if (~ZY_i &&  NY_i) Y_int=~Y_i;
+    if ( ZY_i && ~NY_i) Y_int=4'b0000;
+    if ( ZY_i &&  NY_i) Y_int=4'b1111;
+
+    if (FC_i)  Z_int=X_int+Y_int;
+    if (~FC_i) Z_int=X_int&Y_int;
+
+    if (NO_i)  Z_o=~Z_int; 
+    if (~NO_i)  Z_o=Z_int; 
+}

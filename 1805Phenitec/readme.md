@@ -1,4 +1,4 @@
-* 2018/5 フェニテック相乗り試作データ
+# 2018/5 フェニテック相乗り試作データ
 
 2018/5のフェニテック相乗り試作で、各設計者から提出された元データ。
 GDS形式のデータは、Gladeでimportするか、[GDS Viewer](https://www.vector.co.jp/soft/winnt/business/se243021.html
